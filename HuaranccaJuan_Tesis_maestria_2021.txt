@@ -1,0 +1,8861 @@
+“PLANEAMIENTO ESTRATÉGICO DE CAMPOSOL 2017-2021”
+
+Trabajo de Investigación presentado
+para optar al Grado Académico de
+Magíster en Administración
+
+Presentado por
+
+Sr. Juan de Dios Huarancca Cahuana
+Sra. Ana Gabriela Pichilingue Chafalote
+Srta. Ximena Fiorella Velarde Broders
+
+Asesora: Profesora Gina Pipoli
+0000-0003-4802-5349
+
+Lima, julio de 2021
+
+A mi esposa Miriam, por su apoyo y amor durante
+la etapa de estudios; a mis hijos Camila y Matías,
+quienes son mi motivo de superación; y a mis
+padres, por su ejemplo de perseverancia y por su
+dedicación.
+Juan de Dios Huarancca Cahuana
+
+A mi esposo, por su apoyo, por confiar y creer en
+mis aspiraciones profesionales; y a mis padres, por
+su amor, trabajo y sacrificio de todos estos años.
+Ana Gabriela Pichilingue Chafalote
+
+A mi familia, en especial a mi padre, por su apoyo
+incondicional y soporte en el logro de mis objetivos
+personales y profesionales.
+Ximena Fiorella Velarde Broders
+
+Resumen ejecutivo
+Camposol es una empresa agroindustrial peruana que opera en la industria de alimentos, en el
+segmento de frutas y verduras frescas. Empezó sus operaciones en el año 1997 y al 2016 tiene
+presencia en los Estados Unidos y Europa y está iniciando actividades comerciales en China. Su
+canal de distribución para acercarse a los consumidores finales es a través de los minoristas en
+los mercados de destino. Uno de los principales retos de Camposol, debido al crecimiento de su
+mercado, es asegurar la oferta de productos de manera consistente durante todo el año, asegurando
+maximizar la capacidad y la calidad de los productos.
+
+El problema principal es que la planificación de la producción y el abastecimiento de la unidad
+de negocio de frutas y verduras frescas en Camposol no están alineados con la estrategia de
+crecimiento, que busca tener la capacidad de ofrecer sus productos para las familias a nivel
+mundial durante todo el año.
+
+En el presente trabajo, los investigadores proponen un plan estratégico para la unidad de negocio
+de frutas y verduras frescas de la empresa Camposol para el periodo 2017-2021, con iniciativas
+que permitirán desarrollar y fortalecer los recursos y las capacidades para convertirse en un
+referente como proveedor de alimentos frescos y saludables de manera permanente.
+
+En el análisis externo se identificó que en la industria de alimentos el segmento de frutas y
+verduras frescas resulta atractivo, principalmente por las altas barreras de entrada que posee la
+industria y por la baja amenaza de productos sustitutos. También se precisó que existe un
+incremento en la demanda a nivel global, debido a que cada vez más personas se interesan por su
+salud, lo que las lleva a consumir alimentos saludables. La principal amenaza en esta industria
+está relaciona con los fenómenos naturales y los cambios climáticos.
+
+Del análisis interno, se diagnostica que la ubicación geográfica de sus tierras en el Perú, su
+experiencia en el sector y el control completo de la cadena de valor, desde la producción hasta la
+colocación del producto en su destino, son sus principales fuentes generadoras de ventaja
+competitiva. En cuanto a las debilidades que se identificaron, se concluyó que estas son la baja
+inversión en promocionar la marca Camposol, la falta de integración de la cultura de producción
+con la cultura comercial y el no poder ofrecer los productos de manera consistente durante todo
+el año.
+
+iii
+
+Los investigadores recomiendan que la estrategia que mejor aprovecharía las oportunidades del
+mercado, de acuerdo con sus fortalezas y debilidades, es la de liderazgo en costos, y para alcanzar
+la visión de ser un proveedor referente de alimentos frescos y saludables para las familias del
+mundo durante todos los días del año, los investigadores recomiendan continuar con el desarrollo
+del mercado de Europa y los Estados Unidos, penetrar el mercado de China, optimizar la
+capacidad de producción de Camposol e implementar iniciativas de calidad total para asegurar la
+calidad de sus productos.
+
+El plan estratégico propuesto contempla iniciativas para las áreas funcionales de operaciones,
+recursos humanos, marketing y responsabilidad social corporativa, las cuales permitirán optimizar
+la capacidad de producción, adquiriendo tierras en otros países fuera del Perú, con la finalidad de
+ofrecer frutas y verduras frescas durante todo el año y no depender del calendario peruano.
+Asimismo, apunta al cultivo de tierras no desarrolladas en el Perú y propone iniciativas para
+fortalecer la capacidad de investigación, innovación y desarrollo, eficiencia del uso del agua,
+control de plagas y enfermedades, y postcosecha. En los aspectos relacionados con los recursos
+humanos, se propone ejecutar programas de multidiversidad y multiculturalidad, a fin de
+fortalecer la cultura Camposol, y con relación a la responsabilidad social corporativa, se plantea
+ejecutar proyectos de conservación de biodiversidad en las zonas de producción.
+
+Finalmente, las inversiones adicionales en el plan estratégico propuesto para Camposol se
+descomponen en USD 14.5 millones de CAPEX y USD 10.3 millones de OPEX, de los cuales se
+financiará el 59% con deuda; la inversión adicional es aceptable, debido a que los flujos son
+positivos y benefician a los accionistas con un VAN y TIR financiero de USD 56.73 millones y
+66.52%, respectivamente, y el plazo de recuperación de la inversión es de cuatro años,
+aproximadamente.
+
+iv
+
+Índice
+Resumen ejecutivo ................................................................................................................ iii
+Índice de tablas ......................................................................................................................ix
+Índice de gráficos ...................................................................................................................xi
+Índice de anexos ....................................................................................................................xii
+Introducción ............................................................................................................................ 1
+Capítulo I. Identificación del problema ................................................................................. 2
+1. Consideraciones generales .....................................................................................................2
+2. Descripción y perfil estratégico de la empresa .......................................................................2
+3. Definición del problema ........................................................................................................2
+4. Enfoque y descripción de la solución prevista ........................................................................3
+Capitulo II. Internacionalización ........................................................................................... 4
+1. Antecedentes .........................................................................................................................4
+2. Descripción y análisis de estrategias actuales .........................................................................4
+3. Conclusiones .........................................................................................................................5
+Capítulo III. Análisis externo ................................................................................................. 6
+1. Internacionalización (modelo CAGE) ....................................................................................6
+2. Análisis del entorno general ..................................................................................................6
+2.1 Entorno político y legal .................................................................................................. 6
+2.2 Entorno económico ........................................................................................................ 7
+2.3 Entorno social ................................................................................................................ 8
+2.4 Entorno tecnológico ....................................................................................................... 8
+2.5 Entorno ecológico .......................................................................................................... 9
+2.6 Entorno global ................................................................................................................ 9
+3. Análisis de la industria o sector ........................................................................................... 10
+3.1 Nivel de atractividad de la industria .............................................................................. 10
+3.1.1 Amenaza de entrada ............................................................................................... 11
+3.1.2 Amenaza de los sustitutos ....................................................................................... 11
+3.1.3 Poder de los compradores ....................................................................................... 12
+3.1.4 Poder de los proveedores ........................................................................................ 13
+3.1.5 Rivalidad entre competidores existentes.................................................................. 14
+3.2 Grado de atractividad de la industria ............................................................................. 15
+3.3 Matriz de perfil competitivo ......................................................................................... 16
+3.4 Matriz de evaluación de factores externos (EFE) .......................................................... 17
+3.5 Conclusiones ................................................................................................................ 18
+
+v
+
+Capítulo IV. Análisis interno ................................................................................................ 19
+1. Análisis de áreas funcionales (AMOFHIT) .......................................................................... 19
+1.1 Administración y gerencia ............................................................................................ 19
+1.2 Marketing y ventas ....................................................................................................... 20
+1.3 Operaciones y logística................................................................................................. 20
+1.4 Finanzas y contabilidad ................................................................................................ 20
+1.5 Recursos humanos y cultura ......................................................................................... 21
+1.6 Sistemas de información y comunicaciones .................................................................. 21
+1.7 Tecnología de investigación y desarrollo ...................................................................... 21
+2. Evaluación de la cadena de valor ......................................................................................... 21
+3. Matriz de evaluación de factores internos (EFI) ................................................................... 24
+4. Matriz VRIO y ventaja competitiva ..................................................................................... 24
+5. Determinación de estrategia genérica................................................................................... 26
+6. Conclusiones ....................................................................................................................... 26
+Capítulo V. Formulación de objetivos .................................................................................. 27
+1. Análisis y propuesta de visión y misión ............................................................................... 27
+2. Visión actual y propuesta .................................................................................................... 27
+3. Misión actual y propuesta .................................................................................................... 27
+4. Objetivo general .................................................................................................................. 28
+5. Objetivos estratégicos ......................................................................................................... 28
+5.1 Objetivos de rentabilidad .............................................................................................. 28
+5.2 Objetivos de crecimiento .............................................................................................. 28
+5.3 Objetivos de sostenibilidad ........................................................................................... 28
+Capítulo VI. Generación y selección de estrategia ............................................................... 29
+1. Matriz FODA...................................................................................................................... 29
+2. Matriz PEYEA .................................................................................................................... 29
+3. Matriz BCG ........................................................................................................................ 30
+4. Matriz interna-externa (IE) .................................................................................................. 31
+5. Matriz de la estrategia principal ........................................................................................... 31
+6. Matriz cuantitativa de la planeación estratégica (MCPE) ..................................................... 32
+7. Alineamiento de estrategias con los objetivos ...................................................................... 33
+8. Descripción de la estrategia seleccionada ............................................................................ 33
+Capítulo VII. Planes funcionales y plan de responsabilidad social corporativa ................. 34
+1. Plan funcional de marketing ................................................................................................ 34
+1.1 Objetivos de marketing................................................................................................. 34
+
+vi
+
+1.2 Estrategia de segmentación ........................................................................................... 34
+1.3 Estrategias de posicionamiento ..................................................................................... 34
+1.3.1 Mantra de la marca ................................................................................................. 35
+1.4 Mezcla de marketing .................................................................................................... 35
+1.4.1 Producto ................................................................................................................. 35
+1.4.2 Precio ..................................................................................................................... 35
+1.4.3 Plaza o canales de distribución ............................................................................... 36
+1.4.4 Promoción .............................................................................................................. 36
+1.5 Plan de acción de marketing ......................................................................................... 37
+1.6 Presupuesto .................................................................................................................. 38
+1.7 Monitoreo y control ...................................................................................................... 38
+2. Plan funcional de operaciones ............................................................................................. 39
+2.1 Objetivos de operaciones .............................................................................................. 39
+2.2 Estrategias .................................................................................................................... 39
+2.2.1 Gestión de la capacidad .......................................................................................... 39
+2.2.2 Gestión de la cadena de suministro ......................................................................... 40
+2.2.3 Compras y externalización ...................................................................................... 40
+2.2.4 Calidad, lean management y mejora continua ......................................................... 40
+2.2.5 Innovación ............................................................................................................. 41
+2.3 Plan de acción de operaciones ...................................................................................... 41
+2.4 Presupuesto .................................................................................................................. 42
+2.5 Monitoreo y control ...................................................................................................... 43
+3. Plan funcional de recursos humanos .................................................................................... 43
+3.1 Objetivos de recursos humanos..................................................................................... 43
+3.2 Estrategias .................................................................................................................... 43
+3.2.1 Gestión de la diversidad.......................................................................................... 43
+3.2.2 Reclutamiento y selección ...................................................................................... 44
+3.2.3 Evaluación de desempeño ....................................................................................... 44
+3.2.4 Formación de los trabajadores ................................................................................ 44
+3.2.5 Desarrollo de las relaciones internas ....................................................................... 44
+3.2.6 Gestión de la retribución ......................................................................................... 45
+3.2.7 Gestión de relación con los representantes de los trabajadores ................................. 45
+3.3. Plan de acción de recursos humanos ............................................................................ 45
+3.4 Presupuesto .................................................................................................................. 46
+3.5 Monitoreo y control ...................................................................................................... 46
+
+vii
+
+4. Plan de responsabilidad social corporativa ........................................................................... 46
+4.1 Objetivos de responsabilidad social corporativa ............................................................ 46
+4.2 Estrategias .................................................................................................................... 47
+4.2.1 Responsabilidad social empresarial ......................................................................... 47
+4.2.2 Valor compartido ................................................................................................... 47
+4.3 Plan de responsabilidad social corporativa .................................................................... 48
+4.4 Presupuesto .................................................................................................................. 49
+4.5 Monitoreo y control ...................................................................................................... 49
+5. Plan funcional de finanzas y evaluación financiera .............................................................. 49
+5.1 Objetivos de finanzas ................................................................................................... 49
+5.2 Supuestos ..................................................................................................................... 49
+5.3 Presupuesto .................................................................................................................. 50
+5.4 Análisis del plan financiero .......................................................................................... 50
+5.4.1 Análisis sin plan estratégico.................................................................................... 50
+5.4.2 Análisis con plan estratégico................................................................................... 51
+5.4.3 Flujo de caja económico y financiero ...................................................................... 52
+5.4.4 Cálculo del valor actual neto (VAN) y de la tasa interna de retorno (TIR) ............... 53
+5.4.5 Análisis de sensibilidad .......................................................................................... 54
+Capítulo VIII. Evaluación y control de la estrategia ........................................................... 55
+1. Mapa estratégico ................................................................................................................. 55
+2. Definición de iniciativas e indicadores propuestos ............................................................... 56
+Conclusiones y recomendaciones .......................................................................................... 57
+1. Conclusiones ....................................................................................................................... 57
+2. Recomendaciones ............................................................................................................... 57
+Bibliografía ........................................................................................................................... 59
+Anexos ................................................................................................................................... 62
+Notas biográficas ................................................................................................................... 76
+
+viii
+
+Índice de tablas
+Tabla 1. Entorno político y legal ...............................................................................................7
+Tabla 2. Entorno económico......................................................................................................7
+Tabla 3. Entorno social .............................................................................................................8
+Tabla 4. Entorno tecnológico.....................................................................................................9
+Tabla 5. Entorno ecológico .......................................................................................................9
+Tabla 6. Entorno global ........................................................................................................... 10
+Tabla 7. Amenaza de entrada .................................................................................................. 11
+Tabla 8. Amenaza de los sustitutos .......................................................................................... 12
+Tabla 9. Poder de los compradores .......................................................................................... 13
+Tabla 10. Poder de los proveedores ......................................................................................... 14
+Tabla 11. Rivalidad entre los competidores existentes ............................................................. 15
+Tabla 12. Grado de atractividad del segmento de frutas y verduras frescas ............................... 15
+Tabla 13. Matriz de perfil competitivo..................................................................................... 16
+Tabla 14. Matriz de evaluación de factores externos (EFE) ...................................................... 17
+Tabla 15. Tabla AMOFHIT ..................................................................................................... 19
+Tabla 16. Matriz EFI ............................................................................................................... 24
+Tabla 17.Matriz VRIO ............................................................................................................ 25
+Tabla 18. Priorización de estrategias especificas ...................................................................... 32
+Tabla 19. Objetivos de marketing ............................................................................................ 34
+Tabla 20. Plan de acción de marketing .................................................................................... 37
+Tabla 21. Presupuesto de marketing (en miles de USD) ........................................................... 38
+Tabla 22. Objetivos de operaciones ......................................................................................... 39
+Tabla 23. Plan de acción de operaciones .................................................................................. 42
+Tabla 24. Presupuesto operaciones (en miles de USD)............................................................. 42
+Tabla 25. Objetivos de recursos humanos ................................................................................ 43
+Tabla 26. Plan de acción de recursos humanos ........................................................................ 45
+Tabla 27. Presupuesto de recursos humanos (en miles de USD) ............................................... 46
+Tabla 28. Objetivos de responsabilidad social corporativa ....................................................... 46
+Tabla 29. Plan de acción de responsabilidad social corporativa ................................................ 48
+Tabla 30. Presupuesto de responsabilidad social corporativa (en miles de USD) ...................... 49
+Tabla 31. Objetivos de finanzas............................................................................................... 49
+Tabla 32. Presupuesto de OPEX y CAPEX de los planes estratégicos (en miles de USD) ........ 50
+Tabla 33. Estado de resultados proyectadas sin estrategia (en miles de USD) ........................... 51
+Tabla 34. Estado de resultados proyectadas con estrategia (en miles de USD).......................... 51
+
+ix
+
+Tabla 35. Flujo de caja económico y financiero (en miles de USD) ......................................... 52
+Tabla 36. Información para aplicar el beta apalancado ............................................................. 52
+Tabla 37. Información para aplicar el costo de oportunidad de capital...................................... 53
+
+x
+
+Índice de gráficos
+Gráfico 1. Cadena de valor Camposol 2016 ............................................................................. 22
+Gráfico 2. Matriz PEYEA ....................................................................................................... 29
+Gráfico 3. Matriz BCG............................................................................................................ 30
+Gráfico 4. Matriz interna-externa (IE) ..................................................................................... 31
+Gráfico 5. Matriz de la estrategia principal .............................................................................. 32
+Gráfico 6. Mapa estratégico de Camposol ............................................................................... 55
+
+xi
+
+Índice de anexos
+Anexo 1. Modelo CAGE – Indicador de oportunidad de mercado ............................................ 63
+Anexo 2. Propuesta de misión ................................................................................................. 64
+Anexo 3. Matriz FODA........................................................................................................... 65
+Anexo 4. Matriz interna externa (IE) ....................................................................................... 67
+Anexo 5. Matriz MCPE........................................................................................................... 68
+Anexo 6. Alineamiento de estrategias con los objetivos ........................................................... 69
+Anexo 7. Identificación de mercados meta .............................................................................. 71
+Anexo 8. Mantra de la marca Camposol .................................................................................. 72
+Anexo 9. Atributos de los principales productos de Camposol ................................................. 73
+Anexo 10. Matriz hibrida ........................................................................................................ 74
+Anexo 11. Iniciativas e indicadores del plan estratégico .......................................................... 75
+
+xii
+
+Introducción
+El presente trabajo de investigación propone un plan estratégico para la empresa agroindustrial
+peruana Camposol para el periodo 2017-2021. A diciembre del 2016, la empresa tiene presencia
+en los Estados Unidos y Europa en el segmento de frutas y verduras frescas, y decide ingresar al
+mercado chino, teniendo como principales productos los aguacates y los arándanos.
+
+En el capítulo I se identifica el problema Camposol, que, fundamentalmente, es la desalineación
+entre la planificación de la producción y su visión, la cual se enfoca en convertirse en un productor
+global de frutas y verduras frescas durante todo el año. Sin embargo, su producción al 2016 no le
+permitía soportar el incremento de la demanda por el ingreso al mercado de China y la
+concentración de sus tierras en el Perú no le daba la capacidad de ofrecer sus productos durante
+todo el año, pues dependía del calendario productivo peruano. En el capítulo II se hace un análisis
+de las estrategias de internacionalización que Camposol implementó para ingresar a los mercados
+de Europa, Estados Unidos y China.
+
+En el Capítulo III se realiza el análisis del entorno general y el análisis de la industria del segmento
+de frutas y verduras frescas del sector de alimentos, para identificar las oportunidades y las
+amenazas del sector. Por otra parte, en el capítulo IV se analizan las áreas funcionales y la cadena
+de valor de Camposol, para reconocer las fortalezas y las debilidades de la empresa, y además se
+identifican las potenciales fuentes de ventaja competitiva y la estrategia genérica que permita
+aprovechar las fortalezas y mitigar las debilidades de Camposol frente a la competencia.
+
+En el capítulo V se analiza y se propone una visión y misión al 2021 para Camposol, se establecen
+los objetivos generales para el plan estratégico y se detallan los objetivos de rentabilidad,
+crecimiento y sostenibilidad; en el capítulo VI se trabajan las matrices para la generación y la
+selección de las estrategias que permitan aprovechar las oportunidades y las fortalezas y mitigar
+las amenazas y las debilidades identificadas en los capítulos anteriores.
+
+En el capítulo VII se exponen los planes funcionales y de responsabilidad social, que incluye los
+planes de acción e inversión para las estrategias funcionales de marketing, operaciones, recursos
+humanos, responsabilidad social y financiero.
+
+Por último, se detallan las conclusiones y las recomendaciones para el periodo del 2017 al 2021.
+
+Capítulo I. Identificación del problema
+1. Consideraciones generales
+El análisis situacional se realizó para la unidad de negocio de frutas y verduras de Camposol,
+teniendo en cuenta información secundaria del sector de alimentos e información de la empresa
+Camposol al año 2016.
+
+La industria agraria tiene un periodo de producción a mediano plazo, de acuerdo con el tipo de
+fruta o verdura. Desde la siembra hasta la cosecha puede pasar un periodo de entre uno y cuatro
+años, aproximadamente. Debido a esta característica de la industria, se decidió realizar el plan
+estratégico a cinco años, de 2017 a 2021.
+2. Descripción y perfil estratégico de la empresa
+Camposol es una empresa agroindustrial que en el año 1997 inició sus operaciones exportando
+espárragos al mercado europeo. Ya para el año 2016, tiene presencia en los Estados Unidos y
+Europa, y dio inicio a sus operaciones comerciales con China, exportando principalmente
+aguacates y arándanos. El perfil estratégico de Camposol está basado en la excelencia operativa
+orientada a conseguir la eficiencia en costos al 2016. Camposol tiene la visión de dejar de ser una
+empresa orientada a la producción y convertirse en una orientada al mercado, desarrollando
+capacidades comerciales en destino.
+3. Definición del problema
+Al 2016, las tierras cultivadas no permiten cubrir el crecimiento de la demanda por el ingreso al
+mercado de China, y la concentración de tierras en el Perú no hace posible asegurar la oferta
+durante todo el año. Por ello, se ha identificado que el principal problema es que la planificación
+de la producción y el abastecimiento de la unidad de negocio de frutas y verduras frescas en
+Camposol no están alineados con la estrategia de crecimiento que busca tener la capacidad de
+ofrecer sus productos para las familias del mundo durante todo el año.
+
+Los problemas secundarios identificados son el bajo posicionamiento de la marca Camposol en
+el mercado europeo y de los Estados Unidos y la desalineación de las culturas del área de
+producción y del área comercial en Camposol, lo que dificultará la sinergia de las capacidades
+internas.
+
+2
+
+4. Enfoque y descripción de la solución prevista
+Frente a la problemática descrita, se sugieren iniciativas para mejorar la planificación de la
+capacidad de producción en la unidad de frutas y verduras frescas de Camposol. En cuanto a la
+solución del problema principal en el área de operaciones, se propone el desarrollo de estrategias
+de gestión de la capacidad para cubrir el incremento de la demanda de Camposol por el ingreso
+al mercado de China, con inversión de hectáreas sin desarrollar en el Perú. Por otra parte, para
+ofrecer frutas y verduras frescas durante todo el año, se recomienda adquirir tierras fuera, en
+países que tienen un calendario productivo complementario.
+
+Respecto de la solución a los problemas secundarios, para el área de marketing se propone
+desarrollar estrategias de segmentación de mercado, identificando tres mercados meta, donde se
+trabajarán las estrategias de posicionamiento de marca; para el área de recursos humanos se
+recomiendan estrategias de gestión de la diversidad, para lo cual deberán implementarse
+programas de multidiversidad y multiculturalidad a fin de generar sinergias al interior de
+Camposol. Por último, en cuanto al plan de responsabilidad social corporativa, se trabajará en
+estrategias de valor compartido.
+
+3
+
+Capitulo II. Internacionalización
+1. Antecedentes
+Los objetivos que guían las decisiones de las empresas de participar o no en los negocios
+internacionales son los siguientes: expandir las ventas, adquirir recursos o reducir los riesgos
+(Daniels, 2013).
+
+Camposol es una empresa peruana agroindustrial que da inicio a sus actividades en 1997 con el
+cultivo de espárragos blancos, los cuales exportaba a Europa a través de intermediarios, hasta que
+en 2011, con la finalidad de desarrollar una relación comercial directa con el consumidor y no
+depender de los intermediarios, abre su primera oficina comercial en Rotterdam. En el año 2015
+implementó la misma estrategia de internacionalización en los Estados Unidos, cuando inaugura
+una oficina comercial en Miami. Continuando con su proceso de internacionalización, en el 2015
+Camposol decide ingresar al mercado chino, con la exportación de aguacates, y a fines de 2016
+inicia la exportación de arándanos. Para desarrollar los vínculos comerciales con los clientes de
+manera directa, en 2017 decide abrir una oficina en Shanghái.
+2. Descripción y análisis de estrategias actuales
+La exportación es una de las formas más comunes de hacer negocios internacionales, porque
+impone riesgos empresariales mínimos, requiere un compromiso bajo de recursos y brinda una
+mayor flexibilidad en el mercado. Cuando las empresas dependen de recursos extranjeros, pueden
+poseer su totalidad o parte de ella, desarrollarla o adquirirla mediante estrategias de inversión
+directa extranjera o utilizar algún tipo de acuerdo de colaboración con otra compañía (Daniels,
+2013).
+
+El riesgo de ingresar al mercado europeo para Camposol implicaba asumir un alto riesgo, debido
+a que Europa era un mercado nuevo y no se tenía la capacidad comercial adecuada, puesto que
+no se conocía la cultura de los compradores ni de los consumidores. Por esto, la mejor estrategia
+fue iniciar un proceso de internacionalización a través de intermediarios de exportación. Después
+de conocer el mercado europeo, Camposol decidió abrir una oficina comercial a través de una
+estrategia de inversión directa en destino, sabiendo que el riesgo era menor y la oportunidad de
+consolidar una relación comercial directa con los minoristas los pondría en una mejor posición en
+el sector. Asimismo, para la internacionalización en los Estados Unidos, inició sus operaciones
+comerciales mediante estrategias de exportación y luego implementó una oficina comercial.
+
+4
+
+El proceso de internacionalización de Camposol fue orgánico, iniciándose con estrategias de
+menor riesgo y control de operaciones en destino, para luego desarrollar estrategias que le
+permitieron tener un mayor control de las operaciones. De esta manera, pudo desarrollar una
+capacidad comercial respaldada por el capital humano, que también implicó baja distancia
+psicológica para negociar y realizar gestiones con los clientes en destino.
+
+Desde 1997 hasta 2016, Camposol pasó de ser, estratégicamente, una empresa orientada a la
+producción a convertirse en una orientada al mercado, desarrollando una capacidad comercial que
+le permitía manejar relaciones directas con los minoristas; además, está integrándose
+verticalmente al nivel de distribuidor, lo que le da una ventaja competitiva.
+
+Al 2017, como estrategia de internacionalización, planea ingresar al mercado chino con inversión
+directa, con la apertura de una oficina comercial en Shanghái, lo cual puede ser una buena
+estrategia, porque Camposol ya cuenta con la experiencia de iniciar y gestionar vínculos
+comerciales en destino.
+3. Conclusiones
+
+
+El proceso de internacionalización de Camposol se dio de manera orgánica, iniciándose
+con estrategias menos riesgosas, como la exportación, y luego implementando estrategias
+que requieren mayor compromiso financiero, como la inversión directa.
+
+
+
+En aproximadamente catorce años de operaciones, Camposol ha pasado de ser una
+empresa orientada a la producción a una orientada el mercado, debido a que ha
+desarrollado una capacidad comercial y de distribución que le da una ventaja competitiva.
+
+
+
+Al 2016, Camposol no ha implementado estrategias colaborativas dentro de su proceso
+de internacionalización.
+
+
+
+La siguiente estrategia de internacionalización de Camposol es ingresar al mercado
+asiático abriendo una oficina comercial en China, lo cual le permitirá tener presencia
+global en tres importantes mercados, como son los Estados Unidos, Europa y China.
+
+5
+
+Capítulo III. Análisis externo
+1. Internacionalización (modelo CAGE)
+Habitamos un mundo semiglobalizado, es decir, en el que todavía hay diferencias culturales,
+administrativas y geográficas que se deben tomar en cuenta a la hora de ingresar a mercados
+extranjeros. El método CAGE desarrollado por Pankaj Ghemawat se basa en calcular las
+distancias teniendo en cuenta estas variables: i) C: distancia cultural ii) A: distancia administrativa
+iii) G: distancia geográfica y iv) E: distancia económica (Ghemawat, 2007).
+
+Para la aplicación del análisis cuantitativo, se utilizó la herramienta CAGE Comparador en el
+anexo 1, tomando al Perú como país base.
+Del análisis realizado, se infiere que los principales mercados donde existe mayor oportunidad de
+desarrollo para el Perú son los Estados Unidos, Brasil, China y Canadá. Debido a que Camposol
+ya tiene presencia en los Estados Unidos y Europa, los países con mayor oportunidad de desarrollo
+son China, Canadá y Brasil.
+2. Análisis del entorno general
+El análisis del entorno general se realizó usando la herramienta PESTEG, que se concentra en
+reconocer y evaluar la tendencia de las variables y el efecto probable de las oportunidades y las
+amenazas para la empresa.
+2.1 Entorno político y legal
+Por el lado del mercado, los tratados de libre comercio se mantienen vigentes y con una
+proyección de mediano plazo, que asegura las condiciones para mantener la demanda y la apertura
+de nuevos mercados. En cuanto a la oferta, al 2016, en el Perú, se mantiene vigente la Ley de
+promoción agraria que proporciona beneficios tributarios y laborales a las empresas del sector
+agroindustrial. Esta oportunidad, identificada en el entorno, se ve castigada por la inestabilidad
+política en el Perú y la desconfianza en los entes reguladores, como el SENASA.
+
+Desde la postura político y legal, el resultado de estas variables configura una oportunidad para
+las empresas de la industria, porque se tiene asegurada la estabilidad y el incremento de la
+demanda, y los beneficios para producir en el Perú son favorables, pese a las amenazas
+identificadas. A continuación, se presenta el resumen del análisis del entorno político y legal.
+
+6
+
+Tabla 1. Entorno político y legal
+Variables
+
+Tendencia del
+macroentorno
+
+Efecto probable
+
+O
+Fuente
+/
+A
+Inestabilidad
+Aumento de la incertidumbre Aumento de los costos financieros y de A (Germán,
+política del Perú
+política - económica peruana producción debido al incremento del tipo
+2021)
+debido al cambio del de cambio.
+gobierno.
+Ente regulador
+Disminución generalizada de Impacto negativo en la relación A (Azcona
+&
+confianza en las instituciones comercial, debido a las demoras o riesgo
+Del
+Prado,
+públicas en el Perú.
+en la emisión de licencias o permisos
+2020)
+sanitarios para la exportación.
+Tratado de libre Los acuerdos comerciales se Incremento de la demanda de productos O (Tello, 2005)
+comercio (TLC)
+mantienen vigentes.
+debido a la apertura o conservación de
+mercados.
+Ley de promoción Se mantiene vigente hasta el Reducción de costos de mano de obra y O (Congreso de
+agraria en el Perú
+2021.
+tributarios debido a los beneficios de
+la República,
+carácter tributario y laboral.
+2020)
+Fuente: Elaboración propia, 2021.
+
+2.2 Entorno económico
+El crecimiento del PBI global refleja que las actividades económicas a nivel global se están
+dinamizando, lo cual impacta positivamente las exportaciones del Perú en el rubro de verduras y
+frutas frescas. La tasa de inflación descendente al año 2016 influye de manera positiva en los
+costos financieros, debido a que se tiene una tasa de tipo de cambio estable.
+
+Desde la perspectiva económica, estas tres variables configuran una oportunidad para la industria
+de alimentos en el segmento de verduras y frutas frescas. En cuanto a las consideraciones de
+mercado, hay un crecimiento en la demanda, y por el lado de la oferta, en el Perú se tiene las
+condiciones económicas para continuar con las operaciones de producción. A continuación, se
+muestra el resumen del análisis del entorno económico.
+
+Tabla 2. Entorno económico
+Variables
+PBI global
+
+Tendencia del macroentorno
+
+Efecto probable
+
+Crecimiento del PBI de forma Incremento en la actividad O
+sostenible (1,53% en el año 2016). económica a nivel global.
+
+O/A
+
+Fuente
+(Banco
+Mundial,
+2021)
+
+Exportación de Crecimiento de las exportaciones en Incremento de la demanda de O
+frutas
+el rubro de frutas frescas, 12% en el productos no tradicionales como
+año 2016.
+arándanos, paltas y mandarinas.
+
+(Trademap,
+2021)
+
+Inflación en el Trayectoria descendente al pasar de Disminución de los costos O
+Perú
+4,4 % (diciembre de 2015) a 3,2 % financieros debido a la baja de la
+en diciembre de 2016.
+tasa de interés.
+
+(Perú,
+2021)
+
+Fuente: Elaboración propia, 2021.
+
+7
+
+2.3 Entorno social
+Hay un creciente interés a nivel global por el consumo de frutas y verduras frescas y saludables,
+lo cual impacta en el incremento de la demanda de estos productos, asegurando el mercado para
+la industria de alimentos en el segmento de verduras y frutas frescas. Analizando las condiciones
+de la oferta en el Perú, se identificó una brecha de infraestructura que impacta los costos de
+producción, distribución y exportación (FAO, 2009).
+
+Desde la perspectiva social, en el análisis del entorno se concluye que esta representa una
+oportunidad, porque asegura la demanda de los productos, aun cuando del lado de la oferta se
+identificó una potencial amenaza que incrementaría los costos operativos en el Perú. A
+continuación, se expone el resumen del análisis del entorno social.
+
+Tabla 3. Entorno social
+Variables
+Obras públicas
+infraestructura
+
+Tendencia del macroentorno
+de
+
+Efecto probable
+
+O/A
+
+Escasez de obras orientadas al Incremento en costos y gastos
+beneficio del sector agroexportador operativos de las empresas A
+del Perú.
+agroindustriales.
+
+Consumo
+de Incremento en el consumo de frutas y
+Incremento de la demanda de
+productos frescos y verduras frescas, saludables y
+O
+alimentos frescos y saludables.
+saludables
+orgánicas.
+Fuente: Elaboración propia, 2021.
+
+Fuente
+(AFIN,
+2015)
+(FAO,
+2009)
+
+2.4 Entorno tecnológico
+La tecnología emergente tiene el gran potencial de impactar significativamente la formulación de
+modelos de negocio y las operaciones de las empresas, con un efecto evidente en la reducción de
+costos. Por otro lado, la aplicación de la biotecnología permite el desarrollo de nuevos productos
+e influye en la reducción de la huella hídrica de las empresas. El costo del agua se valora cada vez
+más, por lo que las empresas ambientalmente responsables que optimizan el uso del recurso
+hídrico son muy apreciadas.
+
+Del análisis del entorno, los factores tecnológicos representan una oportunidad para reducir costos
+de producción y mejorar la imagen de una empresa comprometida con el medio ambiente. A
+continuación, el resultado del análisis de las variables de tecnología en la tabla 4.
+
+8
+
+Tabla 4. Entorno tecnológico
+Variable
+Uso
+de
+tecnología
+en
+la
+siembra.
+
+Tendencia del macroentorno
+
+Efecto probable
+
+O/A
+
+Reducción de costos
+Tecnología emergente con potencial de impactar
+operativos y reducción de
+significativamente a empresas y organizaciones;
+huella
+hídrica. O
+biotecnología para adaptar productos a nuevas
+Desarrollo de nuevos
+regiones geográficas y para el control de plagas.
+productos.
+
+Fuente
+
+(Entelgy,
+2015)
+
+Fuente: Elaboración propia, 2021.
+
+2.5 Entorno ecológico
+El Perú es un país con territorio diverso que ofrece condiciones de terreno y clima que permite el
+buen rendimiento de la producción de las frutas y verduras frescas. Además, se advierte un
+incremento en la preferencia de productos de origen peruano en el extranjero, lo que impacta
+favorablemente la demanda de este tipo de productos. A nivel global, se observa un aumento en
+la frecuencia de eventos climáticos, cuyo impacto negativo se traduce en la pérdida de la calidad
+y el rendimiento de los sembríos (INIA, 2016).
+
+Como resultado del análisis de las variables ecológicas en el análisis del entorno, se concluye que
+en mayor porcentaje estas variables representan una oportunidad en el aprovechamiento de la
+ventaja comparativa en el Perú y en el incremento de la demanda. No obstante, la frecuencia de
+fenómenos naturales configura una gran amenaza que se debe tener en consideración. A
+continuación, en la tabla 5, se presenta el resultado del análisis de las variables de ecología.
+Tabla 5. Entorno ecológico
+Variables
+
+Tendencia del macroentorno
+
+Perú
+con Incremento en el consumo de producto
+potencial
+de origen peruano en el extranjero,
+natural
+como país biodiverso con potencial en
+suelos y áreas agrícolas.
+Cambio
+climático
+Fenómeno
+natural
+
+Efecto probable
+
+O/ A
+
+Valor agregado del producto
+para el consumidor final por
+producto de origen peruano. O
+Incremento en la capacidad de
+la producción agrícola.
+
+Impacto negativo en el margen
+/ Aumento de la frecuencia de eventos de los productos, por la pérdida
+A
+climáticos y fenómenos naturales.
+de calidad, y en el productividad
+del sembrío.
+
+Fuente
+
+(INIA, 2016)
+
+(MINAM,
+2016)
+
+Fuente: Elaboración propia, 2021.
+
+2.6 Entorno global
+En la página web de Datamation se indica que en 2016 se espera contar con 1.27 miles de millones
+de dispositivos de internet de las cosas (IOT por sus siglas en inglés), lo que representa una
+oportunidad para implementar sensores de humedad, temperatura y consumo de agua para
+
+9
+
+controlar las condiciones de siembra respecto de las condiciones ambientales, y así obtener un
+producto de calidad (Datamation, 2016). Esto representa una oportunidad para incrementar el
+valor del producto final y mejorar el rendimiento de las tierras. En la tabla 6 se muestra el
+resultado del análisis de las variables globales.
+Tabla 6. Entorno global
+Variable
+
+Fuente
+
+Tendencia del
+macroentorno
+
+Se incrementa la
+Internet de adopción de internet
+las cosas
+de las cosas en las
+empresas.
+
+Efecto probable
+
+O/A
+
+Incremento del valor en el producto final, debido al
+mejor control de las condiciones ambientales de los
+campos de siembra para mejorar la calidad del
+producto y mejorar las productividad de las tierras.
+
+O
+
+(Datamatio
+n, 2016)
+
+Fuente: Elaboración propia, 2021.
+
+3. Análisis de la industria o sector
+Las variables para delinear el segmento de interés estratégico son el tipo de producto, el tipo de
+comprador, el canal y la ubicación geográfica del consumidor (Porter, 2013). De acuerdo con su
+origen, los alimentos se clasifican como de origen vegetal (frutas y verduras, legumbres y
+cereales), animal y mineral. Teniendo en cuenta la variable del tipo de productos, se estará
+analizando la industria de alimentos y el segmento de frutas y verduras frescas (Raffino, 2020).
+
+Según la variable por tipo de comprador, los consumidores finales de los productos de Camposol
+son las familias que priorizan los alimentos saludables sobre los alimentos procesados. Los
+canales de distribución para llegar a los consumidores finales son los intermediarios y los
+minoristas, estos últimos conformados por los supermercados en los países destino. Teniendo en
+cuenta la ubicación geográfica de los consumidores finales, los segmentos de interés estratégico
+serían los Estados Unidos, Europa y China.
+
+Finalmente, el segmento de interés estratégico para el trabajo de investigación será el segmento
+de frutas y verduras frescas dentro de la industria de alimentos, a nivel global, enfocado en las
+familias que priorizan los alimentos saludables.
+3.1 Nivel de atractividad de la industria
+Para analizar el nivel de atractividad de la industria de alimentos en el segmento de frutas y
+verduras frescas, se empleó la herramienta de las cinco fuerzas de Porter, cuyas fuerzas
+competitivas dan forma a la estrategia (Porter, 2008). Además, se tendrá en cuenta el sistema de
+evaluación desarrollado por Hax y Majluf (Hax & Majluf, 2004).
+
+10
+
+3.1.1 Amenaza de entrada
+Las barreras de entrada son la base para explicar el nivel sostenido de rentabilidad en la industria.
+Una estrategia que permite elevar estas barreras permitirá generar altos beneficios a largo plazo
+(Hax & Majluf, 2004).
+
+Se ha identificado que para poder ingresar a la industria, además de la alta inversión requerida,
+existen políticas gubernamentales sobre la calidad de alimentos, medio ambiente y recursos
+humanos en los países de producción y en destino; por otro lado, las empresas del sector han
+desarrollado economías de escala en su capacidad de producción y en las relaciones comerciales
+con los distribuidores o minoristas, dando un acceso desigual a los canales de distribución en
+destino. Estas variables se consideran como altas barreras de entrada para el ingreso al sector.
+
+Desde la perspectiva de la amenaza de entrada, el segmento de frutas y verduras frescas en la
+industria de alimentos se muestra como muy atractiva, debido a las altas barreras de entrada que
+posee. En la tabla 7 se presenta de manera cuantitativa la amenaza de entrada.
+
+30%
+
+Economías de escala en las empresas
+productoras
+
+Bajo
+
+11%
+
+Beneficios de escala para los compradores
+
+Bajo
+Bajo
+
+4%
+19%
+7%
+11%
+19%
+
+Costos para los compradores por variar de
+proveedor
+Capital requerido
+Ventajas de los empresas que ya están en
+el sector
+Difícil de acceder a los canales de
+distribución
+Políticas gubernamentales exigentes
+
+Valor
+
+Muy
+atractivo
+5
+
+Bajo
+Bajo
+
+Atractivo
+
+Neutro
+
+Variables
+
+Poco
+atractivo
+
+Muy poco
+atractivo
+
+Peso
+
+Tabla 7. Amenaza de entrada
+
+Alto
+
+1.50
+
+4
+
+Alto
+
+0.44
+
+4
+
+Alto
+
+0.16
+
+Alto
+
+0.95
+
+Alto
+
+0.21
+
+5
+3
+
+Bajo
+
+5
+
+Alto
+
+0.55
+
+Bajo
+
+5
+
+Alto
+
+0.95
+
+Promedio
+Fuente: Elaboración propia, 2021, con base en Hax&Majluf, 2004.
+
+4.76
+
+3.1.2 Amenaza de los sustitutos
+Como principal producto sustituto, se identificó a frutas y verduras en conserva, y el segmento de
+consumidores objetivo son las familias que priorizan la alimentación saludable, por lo que el
+producto sustituto solo cumple con satisfacer la necesidad de alimentación del consumidor.
+
+11
+
+Los productos en conserva no cumplen con los beneficios de los productos frescos y los
+consumidores finales priorizan lo saludable sobre los alimentos procesados. Cambiar un producto
+fresco por uno de conserva impacta negativamente la salud del consumidor final.
+
+El impacto de la amenaza de productos sustitutos sobre la atractividad y la rentabilidad de la
+industria depende principalmente de la disponibilidad de productos cercanos (Hax & Majluf,
+2004). Dado que la amenaza de productos sustitutos en el segmento de frutas y verduras frescas
+de la industria de alimentos es baja, desde esta perspectiva el sector resulta atractivo. En la tabla
+8 se presenta de manera cuantitativa la amenaza de los sustitutos.
+
+Ofrece una ventaja de precio y desempeño
+Alto
+respecto del producto de la industria.
+El costo por cambiar al producto sustituto es
+40%
+Bajo
+bajo para el consumidor.
+Promedio
+Fuente: Elaboración propia, 2021, con base en Hax&Majluf, 2004.
+60%
+
+Valor
+
+Muy
+atractivo
+
+Atractivo
+
+Neutro
+
+Poco
+atractivo
+
+Variables
+
+Muy poco
+atractivo
+
+Peso
+
+Tabla 8. Amenaza de los sustitutos
+
+4
+
+Bajo
+
+2.40
+
+4
+
+Alto
+
+1.60
+4.00
+
+3.1.3 Poder de los compradores
+Se ha identificado a minoristas como Walmart y Costco como compradores o clientes del
+segmento. Existen pocos compradores en el mercado, el producto final que se comercializa es
+estandarizado y solo se puede diferenciar por el empaque o el servicio como valor agregado;
+además, el costo de variar de proveedor es bajo y el producto representa una mínima parte en la
+estructura de costos de los minoristas.
+
+El poder de negociación de los compradores es alto, lo cual incrementa el riesgo de un mal manejo
+de poder en perjuicio del sector; desde la óptica de poder de los compradores, se concluye que la
+atractividad del sector califica como poco atractiva.
+En la tabla 9 se presenta de manera cuantitativa el poder de los compradores.
+
+12
+
+26%
+26%
+16%
+3%
+
+Los clientes tienen un gran poder de
+negociación si:
+Existen pocos compradores o cada uno
+compra en volúmenes grandes.
+Los productos de la industria son
+estandarizados
+Los compradores asumen costos bajos
+por variar de proveedor.
+Los compradores pueden integrarse
+hacia atrás en la industria y fabricar los
+productos.
+
+Pocos
+
+2
+1
+
+Alto
+
+4
+
+Valor
+
+Muy
+atractivo
+
+Atractivo
+
+1
+
+Alto
+Bajo
+
+Neutro
+
+Variables
+
+Poco
+atractivo
+
+Muy poco
+atractivo
+
+Peso
+
+Tabla 9. Poder de los compradores
+
+Muchos
+
+0.26
+
+Bajo
+
+0.52
+
+Alto
+
+0.16
+
+Bajo
+
+0.12
+0.00
+
+Los clientes son sensibles al precio si:
+El producto que compra a la industria
+representa una parte importante de su Alto
+estructura de costos.
+La calidad de los servicios o productos
+16%
+de los compradores no se ve muy Bajo
+afectada por el producto de la industria.
+El producto de la industria surte poco
+6%
+Alto
+efecto en los otros costos del comprador.
+Promedio
+Fuente: Elaboración propia, 2021, con base en Hax&Majluf, 2004.
+6%
+
+4
+
+Bajo
+
+0.24
+
+4
+
+Alto
+
+0.64
+
+4
+
+Bajo
+
+0.24
+2.18
+
+3.1.4 Poder de los proveedores
+Los proveedores, dentro de la industria de alimentos en el segmento de frutas y verduras frescas,
+son los agricultores subcontratados que alquilan sus tierras, la mano de obra contratada durante
+el periodo de siembra o cosecha, los proveedores de maquinaria y equipos y los proveedores de
+insecticidas o suministros para procesar el producto final.
+
+Los proveedores tienen bajo poder de negociación porque no están concentrados, dependen
+fuertemente de la compra de su producción por los distribuidores o acopiadores, les cuesta
+cambiar de cliente debido a que es un producto perecible y no tienen el margen de tiempo para
+negociar; además, la diferenciación de la frutas y verduras frescas es mínima y en campo no se
+tiene un producto sustituto. Por lo cual, desde el punto de vista del poder de los proveedores, la
+atractividad resulta neutra. En la tabla 10 se presenta de manera cuantitativa el poder de los
+proveedores.
+
+13
+
+Valor
+
+Muy atractivo
+
+Atractivo
+
+Neutro
+
+Variable
+
+Poco atractivo
+
+Muy poco
+atractivo
+
+Peso
+
+Tabla 10. Poder de los proveedores
+
+Los proveedores tienen más poder si:
+
+35%
+
+Está más concentrado en la industria al
+cual atiende.
+
+Alto
+
+4
+
+Bajo
+
+1.40
+
+13%
+
+Los proveedores no tienen dependencia
+fuerte de la industria para sus ingresos.
+
+Baja
+
+4
+
+Alta
+
+0.52
+
+22%
+
+Los participantes de la industria deben
+asumir costos por variar de proveedor.
+
+Alto
+
+Bajo
+
+0.44
+
+9%
+
+Los productos que ofrecen
+proveedores son diferenciados.
+
+Poco
+
+Mucho
+
+0.09
+
+13%
+
+No existe un sustituto para el producto o
+servicio que ofrecen los proveedores.
+
+Poco
+
+Mucho
+
+0.26
+
+9%
+
+Los proveedor puede integrarse en el
+sector de forma más avanzada.
+
+Alta
+
+Baja
+
+0.45
+
+los
+
+2
+1
+2
+5
+
+Promedio
+Fuente: Elaboración propia, 2021, con base en Hax&Majluf, 2004.
+
+3.16
+
+3.1.5 Rivalidad entre competidores existentes
+El crecimiento del segmento de frutas y verduras frescas es rápido debido a que los consumidores
+priorizan cada vez más lo saludable, las empresas agroexportadoras son pocas en el mercado y
+las empresas son capaces de entender sus señales estratégicas mutuamente. Estas variables hacen
+que el sector sea atractivo.
+
+Sin embargo, la rivalidad de los competidores incrementa debido a las altas barreras de salida, a
+que el producto del sector es perecible y que son casi idénticos y a que los costos fijos son altos.
+Una alta rivalidad, finalmente, refleja un bajo nivel de atractividad de la industria.
+
+Por lo tanto, de un análisis general desde el punto de vista de la rivalidad entre los competidores
+existentes, el grado de atractividad es casi neutro. En la tabla 11 se presenta de manera cuantitativa
+la rivalidad entre los competidores existentes.
+
+14
+
+14%
+23%
+9%
+
+La rivalidad es más intensa
+cuando:
+Existen varios competidores o
+Varios
+tienen el mismo tamaño y potencia.
+El desarrollo de la industria es
+Lento
+pausado.
+Las barreras de salida son altas.
+
+Alta
+
+5
+
+Pocos
+
+0.70
+
+Rápido
+
+0.92
+
+Baja
+
+0.09
+
+Bajo
+
+0.12
+
+Mucho
+
+0.12
+
+2
+
+Poco
+
+0.28
+
+2
+
+Alto
+
+0.18
+
+2
+
+Bajo
+
+0.46
+2.87
+
+4
+1
+
+Los competidores tienen un gran
+compromiso con el negocio y Alto
+aspiran ser líderes del sector.
+Los competidores no entienden bien
+sus señales en la industria, debido a
+3%
+Poco
+enfoques competitivos distintos o
+metas diferentes.
+Los productos o servicios de los
+competidores son casi iguales y
+14%
+Mucho
+existen pocos costos por variar de
+proveedor para los compradores.
+Los costos fijos son altos y los
+9%
+Bajo
+costos marginales son bajos.
+23% El producto es perecible
+Alto
+Promedio
+Fuente: Elaboración propia, 2021, con base en Hax&Majluf, 2004.
+6%
+
+Valor
+
+Muy
+atractivo
+
+Atractivo
+
+Neutro
+
+Variables
+
+Poco
+atractivo
+
+Muy poco
+atractivo
+
+Peso
+
+Tabla 11. Rivalidad entre los competidores existentes
+
+2
+
+4
+
+3.2 Grado de atractividad de la industria
+El resultado del análisis de atractividad del segmento de frutas y verduras frescas en la industria
+de alimentos es neutro, con un puntaje de 3.39, porque a pesar de que desde la posición de
+amenaza de nuevos entrantes y amenaza de sustitutos el sector es atractivo, el poder de los
+compradores, al ser alto, le disminuye atractividad al sector, según se muestra en la tabla 12.
+
+1
+2
+3
+4
+5
+
+Rivalidad entre competidores existentes
+2.87
+Amenaza de entrada
+4.76
+Amenaza de los sustitutos
+4.00
+Poder de los compradores
+2.18
+Poder de los proveedores
+3.16
+Promedio
+3.39
+Fuente: Elaboración propia, 2021, con base en Porter, M., 2008.
+
+Alto
+Alto
+Alto
+Alto
+Alto
+
+2
+
+3
+
+4
+
+5
+
+Neutro
+
+Atractivo
+
+Muy
+atractivo
+
+Valor
+
+Poco
+atractivo
+
+Fuerza
+
+1
+N.º
+
+Muy poco
+atractivo
+
+Tabla 12. Grado de atractividad del segmento de frutas y verduras frescas
+
+Bajo
+Bajo
+Bajo
+Bajo
+Bajo
+
+15
+
+3.3 Matriz de perfil competitivo
+La matriz de perfil competitivo reconoce los principales competidores, así como sus principales
+fortalezas y debilidades (David, 2017). Para evaluar a Camposol, se seleccionó a los competidores
+líderes de Chile y los Estados Unidos, así como trece actividades y capacidades de éxito en la
+industria de alimentos en el segmento de frutas y verduras frescas, según la tabla 13.
+Tabla 13. Matriz de perfil competitivo
+N.º
+
+Actividades y
+capacidades de éxito
+
+Camposol
+Pond.
+
+Calific.
+
+Hortifrut
+
+Del Monte
+
+Puntuac. Calific. Puntuac. Calific.
+
+Puntuac.
+
+1
+
+Expansión global
+
+0.12
+
+3
+
+0.37
+
+2
+
+0.25
+
+4
+
+0.49
+
+2
+
+Capacidad de producción
+
+0.12
+
+2
+
+0.25
+
+3
+
+0.37
+
+4
+
+0.49
+
+3
+
+Posición financiera
+
+0.11
+
+3
+
+0.33
+
+2
+
+0.22
+
+4
+
+0.44
+
+4
+
+Experiencia en la industria
+
+0.12
+
+4
+
+0.49
+
+1
+
+0.12
+
+3
+
+0.37
+
+5
+
+Calidad de los productos
+
+0.08
+
+3
+
+0.23
+
+2
+
+0.15
+
+4
+
+0.31
+
+6
+
+Servicio al cliente
+
+0.03
+
+3
+
+0.09
+
+2
+
+0.06
+
+4
+
+0.12
+
+7
+
+0.12
+
+3
+
+0.37
+
+2
+
+0.25
+
+4
+
+0.49
+
+8
+
+Efectividad de la
+distribución de ventas
+Cartera de productos
+
+0.08
+
+3
+
+0.23
+
+2
+
+0.15
+
+4
+
+0.31
+
+9
+
+Capacidad tecnológica
+
+0.05
+
+3
+
+0.14
+
+1
+
+0.05
+
+2
+
+0.09
+
+10
+
+Centro de I+D e
+innovación
+
+0.09
+
+4
+
+0.36
+
+2
+
+0.18
+
+3
+
+0.27
+
+11
+
+Posición de marca
+
+0,15
+3.01
+
+3
+
+0,23
+1.8
+
+4
+
+0,31
+3.39
+
+0,08
+2
+Total 100%
+Fuente: Elaboración propia, 2021, con base en David, 2017.
+
+Fresh Del Monte se fundó en el año 1892 y sus consumidores principales se sitúan en los Estados
+Unidos, la República de Corea, Japón, Europa, Canadá, Arabia y Brasil. En el análisis de la matriz
+de MPC, resultó ser la más fuerte, con una puntuación ponderada de 3.4, con las siguientes
+fortalezas principales: expansión global, capacidad de producción y efectividad de la distribución
+de ventas.
+
+La experiencia en la industria es una de las fortalezas principales de Camposol, debido a sus veinte
+años de pericia en el sector. Está integrada verticalmente, con un enfoque en sus clientes
+minoristas, y cuenta con oficinas comerciales donde se sitúan sus principales clientes. Otra de
+las fortalezas principales de Camposol es el centro de I+D e innovación, habiendo invertido en
+tecnología de I+D centrada en el control de plagas naturales, cría y otras áreas.
+
+Respecto de las debilidades, se han identificado las siguientes: la capacidad de producción, la cual
+tiene dependencia del calendario peruano de producción, lo que no le permite ofrecer sus
+
+16
+
+productos de manera consistente durante todo el año; y la posición de marca, puesto que a la fecha
+Camposol ha invertido poco en promocionarla y carece de un plan para traducir sus buenas
+prácticas agrícolas en una propuesta de marca.
+
+Se concluye que Camposol debe mantener sus fortalezas, diversificar sus tierras de cultivo y
+mejorar el desarrollo de su propia marca.
+3.4 Matriz de evaluación de factores externos (EFE)
+El resultado de la evaluación de factores externos es de 2.96, lo que indica que la empresa está
+respondiendo por encima del promedio a las oportunidades existentes y amenazas identificadas
+en la industria, considerando que el valor máximo es de 4.00 y el valor neutral es de 2.50.
+
+En la tabla 14 se presenta de manera cuantitativa la matriz EFE:
+
+Tabla 14. Matriz de evaluación de factores externos (EFE)
+Factores externos clave
+
+Ponderac. Calificac.
+
+Puntuación
+ponderada
+
+Oportunidades
+O1
+O2
+O3
+O4
+O5
+O6
+O7
+O8
+O9
+O10
+
+Tratado de Libre Comercio (TLC)
+PBI global
+Exportación de frutas
+Inflación en el Perú
+Consumo de productos frescos y saludables
+Uso de tecnología en la siembra
+Perú con potencial natural
+Ley de promoción agraria en el Perú
+Internet de las cosas
+Altas barreras de entrada al sector
+
+6%
+2%
+10%
+4%
+10%
+6%
+10%
+6%
+10%
+6%
+69%
+
+3
+3
+4
+2
+4
+3
+3
+2
+3
+3
+
+0.18
+0.07
+0.39
+0.07
+0.39
+0.18
+0.29
+0.12
+0.29
+0.18
+2.16
+
+6%
+6%
+4%
+10%
+6%
+31%
+100%
+
+3
+3
+2
+2
+3
+
+0.18
+0.18
+0.07
+0.19
+0.18
+0.81
+2.96
+
+Amenazas
+A1
+A2
+A3
+A4
+A5
+
+Inestabilidad política del país
+Ente regulador
+Obras públicas de infraestructura
+Cambio climático / Fenómeno natural
+Alto poder de negociación de compradores
+Total
+
+Fuente: Elaboración propia, 2021, con base en David, 2017.
+
+17
+
+3.5 Conclusiones
+
+
+Se ha identificado oportunidades de desarrollo para el Perú en los mercados de China,
+Canadá y Brasil, debido a que se tiene una distancia Cage menor con estos países y
+penetrar dichos mercados conlleva menor riesgo. Los investigadores proponen penetrar
+el mercado de China como próximo destino de exportación
+
+
+
+Una de las principales oportunidades se encuentra en aprovechar el crecimiento de la
+demanda de frutas y verduras frescas a nivel global, debido a que hay un gran interés en
+el consumo de alimentos saludables.
+
+
+
+Por el lado de la oferta, el Perú se percibe como una oportunidad, porque cuenta con
+tratados de libre comercio y tiene las condiciones económicas para continuar con las
+operaciones de producción.
+
+
+
+Con referencia a las amenazas identificadas, destacan los cambios climáticos y los
+fenómenos naturales, por lo que se remienda implementar una estrategia de mitigación o
+contingencia.
+
+
+
+El segmento de frutas y verduras frescas en la industria de alimentos resulta atractivo
+principalmente por las altas barreras de entrada que tiene la industria y por la baja
+amenaza de productos sustitutos.
+
+18
+
+Capítulo IV. Análisis interno
+1. Análisis de áreas funcionales (AMOFHIT)
+AMOFHIT es un mecanismo que realiza el análisis al interior de la organización, lo cual permite
+diagnosticar las debilidades y las fortalezas. Para el análisis interno de Camposol, como se ve en
+la tabla 15, se ha identificado las siguientes actividades funcionales (D´Alessio, 2008).
+
+Tabla 15. Tabla AMOFHIT
+Área
+(A) Administración y
+gerencia
+
+(M) Marketing y
+ventas
+
+(O) Operaciones y
+logística
+
+(F) Finanzas y
+contabilidad
+
+Actividades funcionales
+Camposol tiene prácticas de gobierno corporativo transparente y de responsabilidad social
+corporativa.
+El equipo directivo cuenta con alta experiencia en negocios globales y baja distancia
+psicológica.
+Enfoque estratégico en producción de alimentos frescos de alto valor nutritivo.
+Desarrollo de canal de distribución propio para gestión directa de la relación con el cliente.
+Desarrollo de nuevo mercado en China.
+Baja inversión en promocionar la marca de Camposol; falta de un plan para traducir las
+buenas prácticas agrícolas en una propuesta de marca.
+Ventaja comparativa de tierras en el Perú; ubicación privilegiada que favorece el
+rendimiento de los sembríos.
+26 mil hectáreas de tierras en el Perú, lo que le da economía de escala en producción; 14.5
+hectáreas de tierras no desarrolladas.
+Dependencia de la producción al calendario de estaciones del Perú, lo que no le permite
+ofrecer productos de manera consistente durante todo el año.
+Gestión de alianzas para tercerizar la producción bajo estrictas medidas de protección del
+conocimiento.
+Camposol está integrado verticalmente a nivel de distribución, lo que le convierte en una
+empresa orientada al mercado.
+Gestión financiera efectiva que soportan las decisiones estratégicas de crecimiento.
+
+Gestión de valor compartido. Camposol ha implementado proyectos sociales que generan
+empleo indirecto para la comunidad.
+(H) Recursos humanos Excelente gestión de capital humano.
+Oportunidad de mejora para alinear la cultura de producción con la cultura comercial.
+(I) Sistemas de
+información y
+comunicaciones
+(T) Tecnología e
+inversión y desarrollo
+
+Sistemas de información de soporte administrativo ERP implementado.
+Portal web con excelente diseño que proyecta imagen de empresa corporativa enfocada en
+productos saludables.
+Inversión en I+D para el control de plagas y enfermedades.
+
+Inversión en I+D para para mejorar la productividad.
+Fuente: Elaboración propia, 2021, con base en D’Alessio, 2008.
+
+1.1 Administración y gerencia
+De análisis de las áreas de administración y gerencia de Camposol al 2016, se ha identificado que
+Camposol cuenta con veinte años de antigüedad en la agroindustria, lo que le da fuente de ventaja
+competitiva. Asimismo, las decisiones estratégicas que ha tomado la gerencia para enfocarse en
+el mercado de alimentos frescos y descontinuar los alimentos procesados ha tenido buenos
+
+19
+
+resultados, debido a que aprovecha la oportunidad de que los consumidores cada vez se interesan
+más en alimentos frescos y saludables.
+
+Camposol está comprometida con la práctica de un buen gobierno corporativo, apoyando una
+mejor regulación en la división de los roles de manera más integral, como la gestión y el control
+de la empresa entre los accionistas, la junta directiva y la administración.
+1.2 Marketing y ventas
+Desde la perspectiva de gestión comercial, ha desarrollado su capacidad pasando de una estrategia
+de enfoque en producción a uno orientado al mercado. En ese sentido, ha implementado oficinas
+comerciales en Róterdam, en el 2011, y en Miami, en el 2015, lo que le permite tener dominio de
+la operatividad en destino.
+
+Como estrategia de penetración en el mercado de China, el área comercial de Camposol está
+publicitando recetas en periódicos locales y en los minoristas, a fin de generar una cultura de
+consumo de frutas y verduras frescas, con el objetivo de desarrollar ese nuevo mercado. En los
+últimos años, la compañía no ha invertido lo suficientemente en promocionar su marca y, a la
+fecha, carece de un plan para trasmitir todas sus buenas prácticas hacia la marca. Esto representa
+una debilidad para la empresa.
+1.3 Operaciones y logística
+Camposol posee una ventaja comparativa frente a sus competidores a nivel global, debido a que
+sus tierras, ubicadas en el Perú, cuentan con buenas condiciones climatológicas que favorecen el
+buen rendimiento de los productos. La empresa está integrada verticalmente hacia la distribución,
+debido a que ha implementado oficinas en destino, teniendo el control logístico y comercial
+directo sobre los minoristas. Esto le da una ventaja competitiva, pues la convierte en una empresa
+orientada al mercado.
+1.4 Finanzas y contabilidad
+El EBITDA ascendió a USD 76 millones en el 2016, frente a USD 31 millones en 2015. Este
+incremento se debe principalmente a las mejoras en el volumen de ventas de los arándanos, la
+eliminación del segmento de conservas o enlatados y la reducción del nivel de inventarios.
+
+Camposol ha desarrollado una capacidad financiera que le ha permitido soportar las estrategias
+de la compañía. De esta manera, en 2007 asumió un préstamo de USD 65 millones para financiar
+
+20
+
+el desarrollo de nuevos campos de espárragos, en 2012 obtuvo USD 125 millones de
+inversionistas para expandir el aguacate y en 2014 recaudó USD 75 millones para financiar una
+expansión a mil hectáreas.
+1.5 Recursos humanos y cultura
+Camposol se caracteriza por ser una empresa que genera valor tanto para sus trabajadores como
+para las comunidades donde produce; es la tercera empresa privada en el Perú que brinda empleo,
+y en épocas de campaña llega a contratar hasta 15.000 trabajadores. Además de ello, contrata a
+las empresas de las comunidades, las cuales brindan servicios de transporte, alimentación,
+laboratorio y salud, entre otros.
+
+En cuanto a la debilidad, se identificó la no alineación de culturas dentro del área comercial y de
+operaciones, dado que la mayoría del personal del área comercial opera en los países de destino
+y el área de operaciones está localizada en el Perú.
+1.6 Sistemas de información y comunicaciones
+Camposol ha desarrollado la capacidad de optimizar el recurso hídrico implementando tecnología
+de riego por goteo impulsado por gravedad; además, cuenta con ERP propio para gestionar las
+entradas y las salidas de materias primas, productos en proceso y productos terminados, lo que le
+permite contar con la trazabilidad a lo largo de toda su cadena de abastecimiento.
+1.7 Tecnología de investigación y desarrollo
+La empresa ha hecho inversiones en tecnología I+D, centrada en el control de plagas naturales,
+cría y otras áreas. Un proyecto en curso incluye la secuenciación del ADN de los árboles de
+aguacate, con la esperanza de estudiar rasgos específicos propios del entorno de crecimiento. La
+inversión en I+D es para incrementar el rendimiento de los productos.
+2. Evaluación de la cadena de valor
+La cadena de valor es una herramienta que permite segmentar a la compañía en sus actividades
+relevantes en cuanto a estrategia, a fin de entender la variación de los costos, así como las fuentes
+actuales y potenciales de diferenciación (Porter M. , 2015). Su finalidad es analizar las fuentes de
+posición competitiva superior respecto de sus competidores. En el gráfico 1 se presenta la cadena
+de valor para el año 2016.
+
+21
+
+Gráfico 1. Cadena de valor Camposol 2016
+
+Fuente: Elaboración propia, 2021, con base en Porter, M., 2015.
+
+Del análisis de las actividades primarias y de apoyo, se ha identificado las actividades generadoras
+o con potencial de generar una ventaja competitiva para Camposol. En las actividades de logística
+de entrada, con una adecuada gestión, Camposol asegura el abastecimiento de insumos y
+consumibles, apoyándose en la gestión de adquisiciones para reconocer proveedores de riesgo, a
+los cuales se les brinda capacitación, entrenamiento y revisión de su sistema de seguridad y salud
+en el trabajo para asegurar la calidad de los productos. La calidad incluye minimizar o mitigar las
+huellas sociales y medioambientales por parte de los proveedores. La gestión de las relaciones
+con los proveedores es una fuente potencial de ventaja competitiva, porque agrega valor al
+producto final como consecuencia de una adecuada gestión del sistema de valor.
+
+Camposol tiene veintiséis mil hectáreas de tierras en el Perú y una ubicación geográfica
+privilegiada que le da una ventaja comparativa, pues tiene excelentes condiciones de clima,
+agricultura y sol. Esta capacidad de Camposol configura una ventaja competitiva, dado que ha
+desarrollado economías de escala para la producción; sin embargo, aún existen ventanas de
+demanda que Camposol no puede atender, porque depende del calendario de cosechas del Perú y
+
+22
+
+no podría responder de manera constante a una demanda global si decide ingresa a otros
+mercados, como el de China, por ejemplo, ya que no todas las tierras en el Perú están cultivadas.
+
+Al 2016, Camposol tiene veinte años de experiencia en el sector de alimentos frescos y saludables.
+Su aprendizaje en técnicas para mejorar la productividad por hectárea y eficiencia de insumos es
+una ventaja competitiva como una empresa orientada a la producción.
+
+A fin de convertirse en una empresa orientada al mercado, Camposol se ha integrado
+verticalmente hacia la distribución, implementando los nexos entre las actividades de exportación
+y producción. Esta gestión configura una ventaja competitiva, ya que tiene el control completo de
+la cadena de valor de sus productos, desde la siembra hasta la entrega a los minoristas.
+
+Desde el enfoque de mercadotecnia y ventas, gestionar operaciones directas en destino con
+minoristas es una potencial fuente de ventaja competitiva; en ese sentido, Camposol está
+trabajando en disminuir el uso de intermediarios y aumentar las ventas directas a través de su
+sector comercial. Por otra parte, la gestión de canales de comunicación con los consumidores
+finales en destino es una actividad que potencialmente también podría generar ventaja
+competitiva. Es de destacar que Camposol ha establecido canales de diálogo con los clientes, con
+el fin de conocer sus opiniones y recibir sugerencias sobre la calidad de los productos y el
+envasado, entre otros.
+
+La gestión de valor compartido es una potencial fuente de ventaja competitiva, porque trasmite la
+imagen al consumidor de que se trata un producto socialmente responsable. En ese sentido, la
+empresa Camposol está comprometida a apoyar el desarrollo sostenible a través de políticas y
+proyectos orientados a incrementar el valor compartido de todas sus partes interesadas,
+especialmente entre los empleados y la comunidad, así como atender asuntos relacionados con el
+medioambiente.
+
+En cuanto a la gestión de permisos, licencias y certificaciones, esta es una actividad que es
+principal fuente generadora de ventaja competitiva y Camposol ha desarrollado esta capacidad,
+lo cual le ha permitido ingresar a mercados exigentes, como el de Europa y el de los Estados
+Unidos. Otra de las principales fuentes de ventaja competitiva de Camposol es la capacidad de
+investigación, innovación y desarrollo, actividades enfocadas en las siguientes líneas de acción:
+mejora de la producción, eficiencia del uso del agua, control de plagas y enfermedades, desarrollo
+de nuevas semillas, y postcosecha.
+
+23
+
+3. Matriz de evaluación de factores internos (EFI)
+El resultado de la evaluación de factores internos es de 2.92, lo que señala que la empresa tiene
+una posición interna por encima del promedio, considerando que el valor máximo es de 4.00 y el
+valor promedio es de 2.50, según se muestra en la tabla 16.
+Tabla 16. Matriz EFI
+Factores clave
+Fortalezas
+F1 Gestión de las relaciones con los proveedores
+Ubicación geográfica privilegiada / ventaja comparativa de tierras en el
+F2
+Perú
+F3 Economías de escala para la producción
+F4
+
+Experiencia en el sector de alimentos frescos y saludables
+
+F5
+
+Control completo de la cadena de valor de sus productos / canal de
+distribución propio
+
+F6
+
+Gestión de operaciones directas en destino con minoristas
+
+F7
+
+Gestión de canales de comunicación con los consumidores finales
+
+F8
+F9
+
+Gestión de valor compartido
+Gestión de permisos, licencias y certificaciones
+Capacidad de investigación, innovación y desarrollo / Alta inversión en
+I+D
+Prácticas de gobierno corporativo
+Producción de alimentos frescos de alto valor nutritivo
+
+F10
+F11
+F12
+
+Debilidades
+D1 Desarrollo de nuevo mercado en China
+D2 Baja inversión en promocionar la marca Camposol
+D3 Gestión de acuerdos para tercerizar la producción
+D4 Integración de la cultura de producción con la comercial
+D5 Ofrecimiento de productos de manera consistente todo el año
+Total
+
+Ponder.
+
+Calific.
+
+Puntuac.
+ponder.
+
+4%
+6%
+
+3.00
+4.00
+
+0.11
+0.24
+
+10%
+10%
+
+4.00
+4.00
+
+0.39
+0.39
+
+4%
+
+3.00
+
+0.11
+
+4%
+
+3.00
+
+0.11
+
+2%
+
+3.00
+
+0.07
+
+5%
+2%
+6%
+
+3.00
+4.00
+3.00
+
+0.18
+0.10
+0.18
+
+4%
+10%
+
+3.00
+4.00
+
+0.11
+0.39
+
+67%
+
+41.00
+
+2.38
+
+5%
+10%
+4%
+4%
+10%
+33%
+100%
+
+2.00
+1.00
+2.00
+1.00
+2.00
+8.00
+49.00
+
+0.12
+0.10
+0.08
+0.04
+0.20
+0.54
+2.92
+
+Fuente: Elaboración propia, 2021, con base en David, 2017.
+
+4. Matriz VRIO y ventaja competitiva
+El modelo VRIO permite evaluar los recursos y las capacidades de la organización y reconocer
+potenciales fuentes de ventaja competitiva. La evaluación se realiza aplicando estas cuatro
+preguntas sobre los recursos y las capacidades: ¿genera valor?, ¿es raro?, ¿es difícil de imitar? y
+¿es aprovechada por la organización?, y como resultado se obtiene si el recurso o la capacidad
+generan desventaja competitiva (DC), paridad competitiva (PC), ventaja competitiva temporal
+(VCT) o ventaja competitiva sostenible (VCS) (Barney & Hesterly, 2008).
+
+24
+
+Del resultado de la valoración de los recursos y las capacidades de la tabla 17, se obtuvieron cinco
+fuentes generadoras de ventaja competitiva sostenibles frente a la competencia, que son las
+siguientes:
+
+
+La ubicación geográfica de las tierras de cultivo es ventajosa, debido a que las
+condiciones de las tierras y el clima impactan positivamente el rendimiento y la calidad
+de los productos.
+
+
+
+El desarrollo de economías de escala en tierras le da a Camposol una sólida posición para
+manejar estrategias de costos frente a la competencia.
+
+
+
+La experiencia en la industria de alimentos permite a Camposol contar con las
+capacidades desde el punto de visto de conocimiento de la industria.
+
+
+
+El control completo de la cadena de producción y distribución es importante porque le
+permite a la empresa manejar precios a nivel de distribuidor, lo que impacta directamente
+en el margen de utilidad.
+
+
+
+La producción de alimentos frescos de alto valor nutritivo, que es tendencia en los
+consumidores, genera una ventaja competitiva, debido a las bondades de estos alimentos
+con relación a la salud.
+
+Difícil de imitar
+
+Explotado por la
+organización
+
+Implicación
+competitiva
+
+Recurso / Capacidad
+
+Raro
+
+N.°
+
+Valioso
+
+Tabla 17.Matriz VRIO
+
+S
+
+S
+
+S
+
+S
+
+VCS
+
+S
+S
+
+S
+S
+
+S
+S
+
+S
+S
+
+VCS
+VCS
+
+S
+
+S
+
+S
+
+S
+
+VCS
+
+S
+S
+
+S
+S
+
+S
+N
+
+S
+
+VCS
+VCT
+
+S
+
+S
+
+N
+
+VCT
+
+N
+
+VCT
+PC
+
+8
+9
+
+Ubicación geográfica privilegiada / ventaja comparativa de tierras
+en el Perú
+Economías de escala para la producción
+Experiencia en el sector de alimentos frescos y saludables
+Control completo de la cadena de valor de sus productos / canal
+de distribución propio
+Producción de alimentos frescos de alto valor nutritivo
+Gestionar operaciones directas en destino con minoristas
+Capacidad de investigación, innovación y desarrollo / Alta
+inversión en I+D
+Prácticas de gobierno corporativo
+Gestión de las relaciones con los proveedores
+
+S
+S
+
+S
+N
+
+10
+
+Gestión de canales de comunicación con los consumidores finales S
+
+N
+
+PC
+
+11
+12
+13
+
+Gestión de valor compartido
+Gestión de permisos, licencias y certificaciones
+Desarrollo de nuevo mercado en China
+
+N
+N
+
+PC
+PC
+DC
+
+1
+2
+3
+4
+5
+6
+7
+
+S
+S
+N
+
+25
+
+17
+
+Implicación
+competitiva
+
+Explotado por la
+organización
+
+Baja inversión para promocionar la marca Camposol
+Gestión de alianzas para tercerizar la producción
+Integración de la cultura de producción con la cultura comercial
+Ofrecimiento de productos de manera consistente durante todo el
+año
+
+Difícil de imitar
+
+14
+15
+16
+
+Raro
+
+Recurso / Capacidad
+
+Valioso
+
+N.°
+
+N
+N
+N
+
+DC
+DC
+DC
+
+N
+
+DC
+
+Fuente: Elaboración propia, 2021, con base en Barney&Hesterly, 2008.
+
+5. Determinación de estrategia genérica
+Existen tres tipos de estrategia genéricas para lograr un desempeño superior al promedio de la
+industria: liderazgo en costos, diferenciación y de enfoque, esta última con dos variantes: enfoque
+en costos y enfoque de diferenciación (David, 2017).
+
+Del análisis de la ventaja competitiva de Camposol, se infiere que la estrategia genérica que le
+permitirá lidiar mejor con las cinco fuerzas de la industria, y aprovechar mejor las oportunidades
+y mitigar las amenazas externas, es la estrategia de liderazgo en costos, porque sus principales
+factores de ventaja competitiva están basados en el desarrollo de economías de escala e inversión
+en I+D para alcanzar una eficiencia operativa.
+6. Conclusiones
+
+
+Camposol se encuentra integrada verticalmente en el sistema de valor hasta la
+distribución. Su división comercial le permite tener control de la calidad desde la
+producción hasta la entrega a los minoristas.
+
+
+
+Camposol es una empresa que tiene una posición interna por encima del promedio,
+sustentada en sus fuentes de ventajas competitivas sostenibles: ubicación geográfica de
+sus tierras, economías de escala para la producción, experiencia en el sector y control
+absoluto de la cadena de valor.
+
+
+
+Se han identificado las siguientes debilidades: baja inversión en promocionar la marca
+Camposol, integración de la cultura de producción con la cultura comercial y
+ofrecimiento de productos de manera consistente durante todo el año.
+
+26
+
+Capítulo V. Formulación de objetivos
+1. Análisis y propuesta de visión y misión
+La declaración de la visión debe responder a la interrogante sobre en qué quiere convertirse
+Camposol y la declaración de misión a la pregunta sobre cuál debe ser su negocio. Además, la
+formulación de la misión debe considerar estos nueve componentes: 1. clientes, 2. productos o
+servicios, 3. mercados, 4. tecnología, 5. consideración por la sostenibilidad, el crecimiento y la
+rentabilidad, 6. filosofía, 7. concepto de sí mismo (ventaja competitiva), 8. preocupación por la
+imagen pública, y 9. preocupación por los empleados (David, 2017).
+2. Visión actual y propuesta
+La visión actual de Camposol es ser el proveedor referente y de vanguardia de alimentos
+saludables y frescos para las familias del mundo (Camposol, 2016). Esta afirmación no refleja la
+capacidad de ofrecer productos de manera permanente durante todo el año y, actualmente, toda
+su capacidad de producción depende de la estacionalidad de Perú.
+
+La visión propuesta es ser el proveedor referente y de vanguardia de alimentos frescos y
+saludables para las familias del mundo de manera permanente. Se propone agregar la aspiración
+de ser un proveedor global con la capacidad de ofrecer alimentos durante todo el año, lo que
+permitirá tener mejor posición en el mercado y mejorar la relación con los minoristas.
+3. Misión actual y propuesta
+La misión actual de Camposol es «Brindar de la mano de sus clientes, alimentos saludables con
+productos diferenciados a consumidores de todo el mundo. Esto se logra a través de la excelencia
+operativa, la innovación y el desarrollo de su gente, generando un impacto positivo y real en el
+bienestar de las comunidades en las cuales opera y creando valor sostenible para los accionistas»
+(Camposol, 2016).
+
+La misión actual de Camposol no está considerando la filosofía ni la ventaja competitiva de la
+empresa; además, no hace referencia al cuidado del medio ambiente.
+
+La propuesta de misión, resultado del análisis en el anexo 2, es la siguiente: «Nuestra misión es
+proveer alimentos frescos, saludables y de alto valor nutritivo (2) a las familias (1) del mundo,
+(3) respaldados por nuestra sólida experiencia en la industria de alimentos (7). Usamos la última
+tecnología (4) para innovar, mejorar la calidad de nuestros productos (6) y comercializarlos (7)
+
+27
+
+de manera rentable (5) y con impacto positivo en el medio ambiente (8). Proporcionamos
+oportunidades de crecimiento y desarrollo a nuestros colaboradores (9), nuestros socios de
+negocio y a las comunidades (8) en las que operamos».
+
+La propuesta considera y resalta las principales ventajas competitivas de Camposol, que son la
+innovación y la calidad como filosofía que permite fortalecer esas ventajas. Se incluyó también
+la responsabilidad por la conservación medioambiental.
+4. Objetivo general
+Un objetivo a largo plazo es el resultado esperado de la implementación de estrategias (David,
+2017). Con la implementación del plan estratégico 2017-2021, se espera alcanzar en cinco años
+el objetivo propuesto, que es desarrollar recursos y capacidades para ofrecer frutas y verduras
+frescas de manera permanente a todas las familias del mundo, generando valor compartido a los
+grupos de interés.
+5. Objetivos estratégicos
+Los objetivos de largo plazo representan los resultados que la organización espera lograr luego
+de aplicar las estrategias, las cuales conducen hacia la visión establecida. Estos deben ser
+específicos, medibles, alcanzables y realistas en el tiempo (D´Alessio, 2008).
+5.1 Objetivos de rentabilidad
+
+
+O1 – Contribuir a incrementar el EBITDA a 20%
+
+
+
+O2 – Contribuir a incrementar el ROE a 25%
+
+5.2 Objetivos de crecimiento
+
+
+O3 – Contribuir a incrementar los ingresos en 29% en el 5to. Año – 2021
+
+
+
+O4 – Contribuir a incrementar participación de mercado a nivel global en 2%
+
+5.3 Objetivos de sostenibilidad
+
+
+O5 - Contribuir a diversificar la capacidad de producción sostenible
+
+
+
+O6 - Mejorar la reputación corporativa
+
+28
+
+Capítulo VI. Generación y selección de estrategia
+Para la etapa de generación de estrategias, se utilizarán las siguientes herramientas: matriz FODA,
+matriz PEYEA, matriz BCG, matriz IE y la matriz de la estrategia principal (David, 2017); y para
+la selección de la estrategia se utilizará la matriz MCPE (D´Alessio, 2008).
+1. Matriz FODA
+Del resultado de la matriz FODA, reflejado en el anexo 3, se obtuvieron trece estrategias
+específicas que permitirán aprovechar las oportunidades, mitigar las amenazas, aprovechar las
+fortalezas y mejorar las debilidades.
+2. Matriz PEYEA
+La matriz Peyea permite reconocer el perfil estratégico (conservador, agresivo, defensivo,
+competitivo) (ver gráfico 2).
+Gráfico 2. Matriz PEYEA
+
+FF
+Perfil conservador
+
+Perfil agresivo
+
+3
+2
+
+(+2.78,+ 1.23)
+
+1
+
+VC
+
+FI
+1
+
+Perfil defensivo
+
+2
+
+3
+
+Perfil competitivo
+
+EE
+
+Fuente: Elaboración propia, 2021, con base en David, 2017.
+
+Camposol se ubica en una posición atractiva, porque tiene un sólido respaldo financiero y ha
+logrado ventajas competitivas en una industria estable y en crecimiento. Se sitúa en el cuadrante
+agresivo, lo que significa que la organización está en excelente condición para consolidar las
+oportunidades usando las fortalezas, superar las debilidades internas y evitar las amenazas
+externas.
+
+29
+
+Por este motivo, se podrían aplicar las siguientes estrategias alternativas: penetración de mercado
+y desarrollo de mercado.
+3. Matriz BCG
+La matriz BCG refleja la posición competitiva de cada segmento operativo de Camposol al 2016
+(ver gráfico 3).
+
+Gráfico 3. Matriz BCG
+Participación relativa en el mercado
+
+Tasa de crecimiento de las
+ventas en la industria
+(Porcentaje)
+
+Alta
+1.00
+Alta
++ 20
+
+Media
+0,50
+
+Aguacates
+
+Baja
+0,0
+Arándanos
+
+Media
+
+Estrellas
+II
+
+Incógnitas
+I
+
+Vacas lecheras
+
+Perros
+
+III
+
+IV
+
+Mariscos
+
+0
+
+Baja
+- 20
+
+Fuente: Elaboración propia, 2021, con base en David, 2017.
+
+Sus segmentos operativos se han ubicado en la región de incógnitas, lo cual indica que tienen una
+alta tasa de crecimiento de ventas en la industria, pero la participación de mercado de Camposol
+no es significativa. De acuerdo con la madurez de la siembra de arándanos, se estima que esta
+categoría de producto pase en el mediano plazo a ser producto estrella.
+
+La Matriz BCG permitió reconocer las siguientes estrategias intensivas que se podrían aplicar
+para fortalecer sus unidades de negocio: desarrollo de mercado, penetración de mercado y
+desarrollo de producto.
+
+30
+
+4. Matriz interna-externa (IE)
+La matriz interna-externa (IE) permitirá clasificar las unidades de negocio (arándanos, aguacates
+y mariscos, entre otras) tal como se expone en el anexo 4, en uno de los nueve cuadrantes. De
+acuerdo con la clasificación, recomendará qué tipo de estrategias alternativas tendrá mejores
+resultados (David, 2017).
+Gráfico 4. Matriz interna-externa (IE)
+Puntajes totales ponderados de EFI
+Fuerte
+3.0 a 4.0
+4
+
+Promedio
+2.0 a 2.99
+3
+
+I
+
+Alto
+3.0 a 4.0
+
+Puntajes
+totales
+Medio
+ponderados 2.0 a 2.99
+de EFE
+
+2
+II
+
+IV
+
+1
+III
+
+Aguacates
+20% (14%)
+
+3
+
+Débil
+1.0 a 1.99
+
+Otros
+17% (9%)
+
+V
+
+VI
+
+Arandanos
+
+Mariscos
+
+2
+VII
+
+VIII
+
+IX
+
+Bajo
+1.0 a 1.99
+1
+
+Fuente: Elaboración propia, 2021, con base en David, 2017.
+
+Las unidades de negocio de Camposol están dentro del grupo 2 (III, V, VII), por lo que le
+corresponde las acciones de conservar y mantener; por lo tanto, se podrían aplicar las estrategias
+para penetrar mercados o desarrollar productos.
+5. Matriz de la estrategia principal
+La matriz de la estrategia principal considera dos variables: la posición competitiva de la empresa
+y el crecimiento del mercado (David, 2017).
+
+Para Camposol, se realizó la matriz de la estrategia principal, como puede verse en el gráfico 5,
+donde Camposol está ubicada en el cuadrante 1, con una posición estratégica excelente; por lo
+tanto, se podría aplicar estrategias de penetración de mercado, desarrollo de mercado y desarrollo
+de producto.
+
+31
+
+Gráfico 5. Matriz de la estrategia principal
+Rápido crecimiento de mercado
+Desarrollo de mercado
+Penetración de mercado
+Desarrollo de producto
+Integración hacia adelante
+Integración hacia atrás
+Integración horizontal
+Diversificación relacionada
+
+Posición
+competitiva
+débil
+
+Posición
+competitiva
+fuerte
+
+Lento crecimiento del mercado
+Fuente: Elaboración propia, 2021, con base en David, 2017.
+
+Las estrategias alternativas que podrían aplicar son las siguientes: desarrollo de mercado,
+penetración de mercado, desarrollo de producto, integración hacia adelante, integración hacia
+atrás, integración horizontal y diversificación relacionada.
+6. Matriz cuantitativa de la planeación estratégica (MCPE)
+Para trabajar la matriz MCPE, se necesitan las estrategias específicas que se identificaron en el
+FODA, que se clasifican de acuerdo con las estrategias alternativas identificadas en las otras
+matrices (D´Alessio, 2008). El desarrollo de la matriz se incluye en el anexo 5 y el resultado
+permite priorizar las estrategias específicas en la tabla 18.
+
+Tabla 18. Priorización de estrategias especificas
+N.°
+
+Tipo
+
+Estrategias
+alternativas
+
+1
+
+E
+
+Desarrollo
+mercado
+
+2
+
+I
+
+Rightsizing
+
+3
+
+I
+
+4
+
+E
+
+5
+
+E
+
+6
+
+E
+
+7
+
+E
+
+Calidad
+(TQM)
+Desarrollo
+mercado
+Penetración
+mercado
+Desarrollo
+mercado
+
+Estrategias específicas
+
+de
+
+total
+de
+de
+de
+
+Alianza estratégica
+
+Ingresar al mercado de China, aprovechando la oferta
+productiva y la experiencia en producción y distribución de
+alimentos (F3, F4, O2, O10).
+Comprar tierras en otros países para incrementar la capacidad
+de producción (F2, F12, O2, O10) (A4, F3).
+Mejorar el rendimiento y la calidad de las tierras aplicando
+tecnología (F2,06).
+Activar capacidades comerciales en oficina comercial en China
+(D1, 05, O10).
+Promocionar la marca Camposol de acuerdo con el mercado
+(EE.UU., Europa y China) (D2, O10, O2, O3).
+Customizar productos (envase y empaque) de acuerdo con la
+cultura China (D1,05, O10)Implementar alianzas con productores para internacionalizar la
+producción (D3, D5,03,010) (F5, F6, F7, F9, O2, 05).
+
+Calific.
+total del
+atractivo
+5.16
+4.96
+4.94
+4.80
+4.59
+4.50
+4.45
+
+32
+
+N.° Tipo
+
+Estrategias
+alternativas
+
+Estrategias específicas
+
+Desarrollar capacidad de multidiversidad y multiculturalidad en
+los colaboradores (D4, O10) (D4, A5).
+Desarrollar o adecuar nuevos productos en otras regiones del
+9
+E
+Perú (sierra, selva) aplicando I+D (F10, F12, O8,07).
+Mejorar o mantener los vínculos con instituciones estatales (A1,
+10
+I
+A2, F1, F8, F11).
+Mantener los vínculos con los minoristas, asegurando calidad y
+11
+E
+Aventura conjunta
+valor agregado en los productos (A5, F5, F6).
+Mejorar o mantener la relación con los proveedores para
+12
+E
+Aventura conjunta asegurar la calidad de los insumos y la mano de obra (F1, F8,
+F11, O8).
+Promover desarrollo de cluster agroindustrial para negociar con
+13
+E
+Aventura conjunta
+el estado obras de infraestructura pública (A3, F8, F11).
+Fuente: Elaboración propia, 2021, con base en D’Alessio, 2008.
+8
+
+I
+
+Gerencia
+de
+procesos (BPM)
+Desarrollo
+de
+producto
+Gerencia
+de
+procesos (BPM)
+
+Calific.
+total del
+atractivo
+4.43
+4.33
+3.85
+3.65
+3.35
+3.35
+
+Las seis estrategias con puntaje acumulado mayor o igual a 4.5 serán consideradas como las
+estrategias seleccionadas, y las cuatro siguientes serán estrategias de contingencia; las estrategias
+de aventura conjunta que tienen los menores puntajes no se considerarán en el plan estratégico.
+7. Alineamiento de estrategias con los objetivos
+Para validar que las estrategias estén alineadas con los objetivos estratégicos, se desarrolló la
+matriz del anexo 6, que permite reconocer la relación entre las estrategias y los objetivos de plan
+estratégico 2017-2019.
+8. Descripción de la estrategia seleccionada
+Las estrategias externas alternativas seleccionadas son el desarrollo de mercado y la penetración
+de mercado; por otro lado, las estrategias alternativas internas son el rightsizing, para adecuar la
+capacidad de Camposol para que soporte las estrategias externas, y la de calidad total (total quality
+management), para asegurar la calidad de los productos.
+
+33
+
+Capítulo VII. Planes funcionales y plan de responsabilidad social corporativa
+1. Plan funcional de marketing
+1.1 Objetivos de marketing
+En la tabla 19, a continuación, se exponen los objetivos del área funcional de marketing.
+Tabla 19. Objetivos de marketing
+Objetivo
+estratégico
+O3. Contribuir a
+incrementar
+los
+ingresos en 29% en
+el 5to. Año – 2021
+
+2016
+(base)
+OM1. Contribuir en el %
+de No
+incremento del ingreso por contribución aplica
+venta a los minoristas en los en
+los
+Estados Unidos y Europa
+ingresos
+Objetivo específico
+
+Indicador
+
+O4. Contribuir a OM2.
+Incrementar el %
+de No
+incrementar
+ingreso por venta a los contribución aplica
+participación
+de minoristas en China
+en
+los
+mercado a nivel
+ingresos
+global en 2%
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+1%
+
+1%
+
+2%
+
+4%
+
+4%
+
+7%
+
+7%
+
+10%
+
+25%
+
+25%
+
+Fuente: Elaboración propia, 2021.
+
+1.2 Estrategia de segmentación
+Un segmento de mercado está conformado por un conjunto de clientes que coinciden en
+necesidades o deseos similares. Esta segmentación se realiza con base en variables que permitirán
+segmentar los mercados empresariales (Kotler & Keller, 2016). Para el análisis de Camposol, que
+forma parte de la cadena de valor de frutas y verduras frescas y es un negocio business to business,
+se consideró como clientes a los minoristas.
+
+Se identificaron tres mercados meta, tal como se muestra en el anexo 7. El mercado meta 1 está
+representado por los minoristas en los Estados Unidos con los que Camposol ya tiene una relación
+comercial madura y los productos pueden ingresar con su propia marca; el mercado meta 2 está
+representado por los minoristas en Europa, donde ya tiene relaciones comerciales establecidas y
+donde los clientes prefieren productos con marca blanca; y, finalmente, está el mercado meta 3,
+conformado por los minoristas en China, quienes están muy fragmentados y donde los clientes
+priorizan lo productos por su tamaño y color.
+1.3 Estrategias de posicionamiento
+Con esta estrategia, se busca mantener la marca Camposol en la mente del consumidor,
+trasmitiéndoles los beneficios que obtienen al consumir sus productos (Kotler y Keller, 2016).
+
+34
+
+1.3.1 Mantra de la marca
+Esto representa los elementos esenciales de la marca y su propósito es que la compañía entienda
+cómo esta debe ser representada frente a los consumidores y que se tomen las decisiones alineadas
+con el mantra (Kotler y Keller, 2016). De acuerdo con el análisis realizado en el anexo 8, se
+propone el siguiente mantra: experiencia de nutrición y cuidado de la salud.
+
+
+Puntos específicos de paridad y de diferencia: Los puntos de paridad son atributos que
+comparten varias compañías en la industria y los puntos de diferencia son los atributos
+que los consumidores asocian fuertemente con la marca (Kotler y Keller, 2016).
+
+Del análisis de la ventaja competitiva de Camposol, se infiere que los puntos de paridad de los
+actores del segmento elegido dentro de la industria de alimentos son ofrecer alimentos frescos,
+sanos, nutritivos y de alta calidad. Los potenciales puntos de diferencia con los que Camposol
+debería posicionarse son alimentos social y medioambientalmente responsables y disponibles
+durante todo el año.
+1.4 Mezcla de marketing
+La identificación de estrategias y tácticas se realizó con base en la mezcla del marketing:
+producto, precio, plaza y promoción.
+1.4.1 Producto
+El portafolio de productos de Camposol está compuesto por las siguientes líneas: arándanos,
+aguacates, mariscos y otros (Camposol, 2016). Para la elaboración del plan en mención se
+consideró la unidad de negocio de frutas y verduras frescas.
+
+
+Tipo de producto: las líneas de productos que ofrece Camposol se clasifican como
+bienes de consumo y, en función de los hábitos de compra, son considerados como bienes
+de conveniencia.
+
+
+
+Atributos del producto: en el anexo 9 se puede ver cuáles son los atributos que se
+identificaron de los principales productos de la unidad de negocio de frutas y verduras
+frescas.
+
+1.4.2 Precio
+
+
+Fijación de precio: el precio de frutas y verduras frescas se fija de acuerdo con el valor
+percibido por el cliente, teniendo en cuenta la calidad, la capacidad y la consistencia en
+
+35
+
+las entregas y, en especial, la demanda de los consumidores. La capacidad y la
+consistencia en las entregas de frutas y verduras frescas dependen de las ventanas de
+producción de las empresas productoras/exportadoras. Según Exporta Perú, la
+exportación de arándanos frescos a los Estados Unidos de octubre a noviembre en los
+años 2015, 2016 y 2017, el Perú fue el principal exportador de esa fruta, porque Chile,
+Canadá y México no tienen cosecha, o es mínima, durante esos meses, lo que le da al
+Perú una ventaja comparativa para fijar un precio superior (Exporta Perú, 2019).
+
+
+Estrategia de precio: en los mercados meta 1, meta 2 y meta 3, se identificaron las
+siguientes estrategias de precios:
+o
+
+Mercado meta 1 y mercado meta 2: se recomienda aplicar estrategias competitivas y
+de precios acordes con la oferta y demanda del mercado para las frutas y verduras
+frescas que están en crecimiento; para las que están en etapa de madurez, se
+recomienda aplicar precios similares a los de la competencia.
+
+o
+
+Mercado meta 3: se recomienda una estrategia de precios para productos nuevos,
+aplicando una estrategia de penetración para los productos que se encuentran en
+desarrollo.
+
+1.4.3 Plaza o canales de distribución
+
+
+Estructura del canal: la estructura del canal de distribución de frutas y verduras frescas
+en la que compite Camposol es de recorrido corto; los niveles que tiene el canal son
+fabricante, minorista y consumidor.
+
+
+
+Canales de distribución: se identificó que Camposol emplea canales de ventas directas
+y distribuidores, tales como los minoristas (Kotler y Keller, 2016). Del análisis de los
+canales de distribución (ver el anexo 10), se constató que las ventas directas brindan
+mayor control de las operaciones en destino para Camposol, frente al canal de
+distribuidor; sin embargo, Camposol asume más riesgos al distribuir de manera directa.
+
+
+
+Estrategia de plaza: Camposol tiene una estrategia de marketing multicanal para
+gestionar sus ventas, ya que utiliza sus oficinas comerciales en destino para sus ventas
+directas y distribuidores, como Mission Produce, para sus ventas a través de
+distribuidores.
+
+1.4.4 Promoción
+Los clientes de Camposol son los minoristas (cadena de supermercados, hipermercados y grandes
+almacenes) en los mercados meta 1, meta 2 y meta 3.
+
+36
+
+
+
+Mezcla promocional: como estrategias de promoción, Camposol utilizará la publicidad,
+para posicionar su marca y desarrollar o mantener la demanda en el mercado, y el
+marketing directo y las relaciones públicas, para gestionar las relaciones comerciales con
+los minoristas.
+
+
+
+Estrategias de promoción: para los mercados meta, se identificó que las estrategias de
+promoción debían ser las siguientes:
+o
+
+Estrategia de producto: promocionar y posicionar las frutas y las verduras frescas con
+la experiencia de nutrición y cuidado de la salud todos los días del año.
+
+o
+
+Estrategia hacia el minorista: entender el comportamiento y descubrir las necesidades
+de los clientes; proyectar una imagen profesional, responsable y de baja distancia
+psicológica.
+
+1.5 Plan de acción de marketing
+Se puede ver en la tabla 20, para el área en mención.
+
+Tabla 20. Plan de acción de marketing
+Objetivo
+
+Estrategia de marketing
+
+Acciones
+
+Mercado meta 1 y mercado meta 2
+Contratar publicidad para la transmisión del Super
+Bowl 2017 al 2021 en los Estados Unidos.
+EM1: Aumento de publicidad para las
+Contratar espacios de publicidad en programas de
+frutas y verduras frescas
+cocina y repostería en canales de televisión de los
+Estados Unidos y Europa
+OM1.
+Incrementar
+el volumen
+de venta a los
+minoristas en
+los EE.UU. y
+Europa
+OM1.
+Incrementar
+el volumen
+de venta a los
+minoristas en
+los EE.UU. y
+Europa
+
+Realizar
+campañas
+de
+publicidad
+para
+EM2: Incremento del precio de los
+posicionamiento como una marca que está presente
+productos durante las ventanas favorables
+en el mercado durante todos los meses del año.
+EM3: Estrategias competitivas, precio de Realizar
+campañas
+de
+publicidad
+para
+acuerdo con las ventajas y la oferta en el posicionamiento como una marca que está presente
+mercado
+en el mercado durante todos los meses del año.
+Realizar
+campañas
+de
+publicidad
+para
+posicionamiento como una marca socialmente
+EM4: Precios similares a los de la
+responsable.
+competencia para los productos en etapa de
+madurez en el mercado meta 1 y 2
+Promoción con muestras o degustaciones en
+supermercados.
+Realizar campañas de publicidad en redes sociales
+EM5: Estrategia de producto: promoción y para posicionar el mantra de la marca Camposol entre
+posicionamiento de los productos con la jóvenes.
+experiencia de nutrición y el cuidado de la Promoción con muestras o degustaciones en
+salud todos los días del año
+supermercados y como obsequio una bolsa de tela con
+el logo de la marca.
+
+37
+
+Objetivo
+
+Estrategia de marketing
+
+Acciones
+
+Mercado meta 3
+Publicidad en diarios y revistas de comida, cuyo
+objetivo será provocar el gusto y la convicción de
+compra de los consumidores finales.
+EM6: Estrategia de precios para productos
+En el lugar de venta, colocar publicidad; se utilizará
+nuevos aplicando estrategia de penetración
+la herramienta de bonificación para que puedan
+en China
+acceder a mayores descuentos en sus futuras compras.
+Asistencia a ferias comerciales y convenciones para
+captar y fortalecer vínculos con minoristas.
+OM2.
+Incrementar EM7: Estrategia hacia el minorista;
+participación entendimiento del comportamiento y las
+de mercado a necesidades de los clientes
+nivel global
+
+Marketing directo con minoristas; recompensas por
+volúmenes de compra anuales con preferencia de
+colocación de productos en ventanas de escasa oferta
+en el mercado.
+
+Customización de la presentación y envases
+de acuerdo con las preferencias de los consumidores
+EM8: Estrategia de producto: promocionar
+en China.
+y posicionar las frutas y verduras frescas
+Implementación de pruebas de marketing controlado
+con la experiencia de nutrición y el
+en los supermercados de Shanghái, con promoción de
+cuidado de la salud todos los días del año
+muestras o degustaciones en supermercados del
+centro de esa ciudad.
+Fuente: Elaboración propia, 2021.
+
+1.6 Presupuesto
+El presupuesto para implementar las estrategias de marketing se advierte en la tabla 21.
+Tabla 21. Presupuesto de marketing (en miles de USD)
+Objetivo
+
+Estrategia
+
+Inver.
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+Mercado meta 1 y mercado meta 2
+EM1
+
+32.19
+
+34.57
+
+73.90
+
+157.34
+
+166.87
+
+EM2
+
+53.64
+
+57.61
+
+123.17
+
+262.23
+
+278.11
+
+EM3
+
+32.19
+
+34.57
+
+73.90
+
+157.34
+
+166.87
+
+EM4
+
+53.64
+85.83
+
+57.61
+92.18
+
+123.17
+197.07
+
+262.23
+419.56
+
+278.11
+444.98
+
+43.06
+
+41.88
+
+OM1
+
+EM5
+Mercado meta 3
+OM2
+
+EM6
+
+128.40
+
+13.05 12.72
+
+EM7
+
+214.00
+342.39
+
+21.75
+34.80
+
+21.20
+33.92
+
+29.49
+47.19
+
+71.76
+114.82
+
+69.79
+111.67
+
+684.79
+
+327.08
+
+344.38
+
+685.60
+
+1.488.33
+
+1.558.27
+
+EM8
+Total
+Fuente: Elaboración propia, 2021.
+
+17.70
+
+1.7 Monitoreo y control
+Se establecerán controles para la ejecución, el seguimiento y el monitoreo del plan de marketing,
+con el objetivo de identificar potenciales desviaciones o riesgos y adecuar el plan a las nuevas
+condiciones del mercado.
+
+38
+
+2. Plan funcional de operaciones
+2.1 Objetivos de operaciones
+Se establecieron los objetivos para el área funcional de operaciones, como se aprecia en la tabla
+22.
+Tabla 22. Objetivos de operaciones
+Objetivo estratégico
+
+Objetivo
+específico
+O3.
+Contribuir
+a OO1
+incrementar los ingresos Contribuir en la
+en 29% en el 5to. Año – mejora
+del
+2021
+rendimiento de
+frutas
+y
+verduras por
+hectárea
+O3.
+Contribuir
+a
+incrementar los ingresos
+en 29% en el 5to. Año –
+2021
+
+Indicador
+
+2016
+(base)
+
+% de contribución
+al
+rendimiento
+promedio
+de
+arándanos
+% de contribución
+al
+rendimiento
+promedio
+de
+aguacates
+
+OO2
+Reducción de % de toneladas
+mermas
+por desechadas
+hectárea
+
+O5.
+Contribuir
+a OO3
+Número
+diversificar la capacidad Incrementar la hectáreas
+de producción sostenible capacidad de disponibles
+siembra
+O6. Mejorar la reputación OO4
+corporativa
+Incrementar
+número
+pruebas
+concepto
+siembra,
+cosecha
+otros.
+Fuente: Elaboración propia, 2021.
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+No
+aplica
+
+0.5
+
+0.5
+
+0.75
+
+1
+
+1
+
+No
+aplica
+
+0.5
+
+0.5
+
+0.75
+
+1
+
+1
+
+2
+
+2.00
+
+2.00
+
+1.75
+
+1.50
+
+1.25
+
+26
+
+27.5
+
+27.5
+
+27.5
+
+27.5
+
+27.5
+
+10
+
+10
+
+20
+
+43
+
+45
+
+de
+
+Número de pruebas
+el de concepto en
+de proyectos I+D
+de
+No
+en
+Aplica
+y
+
+2.2 Estrategias
+2.2.1 Gestión de la capacidad
+Al gestionarse la capacidad, se dimensiona el alcance que permite cumplir con los requerimientos
+de las estrategias de una empresa. (Moscoso y Lago, 2016) identificaron las siguientes estrategias
+de operaciones:
+
+
+Aplicar economías de escala para incrementar la capacidad de producción de frutas y
+verduras a nivel global. Para lograrlo, se recomienda cultivar 1.000 hectáreas de tierras
+no desarrolladas en el Perú y adquirir 500 hectáreas de tierras en Colombia, para no
+depender del calendario productivo peruano.
+
+39
+
+
+
+Para la distribución, se recomienda seguir con la estrategia de economías de agregación,
+centralizando el ingreso, el centro de maduración para los aguacates y el reparto de los
+productos en los mercados destino.
+
+2.2.2 Gestión de la cadena de suministro
+La cadena de suministro está formada por un conjunto de procesos y recursos para el
+aprovisionamiento, la fabricación y la distribución del producto final (Moscoso y Lago, 2016).
+Para gestionarla de forma efectiva en Camposol, se recomienda aplicar las siguientes estrategias:
+
+
+Implementar un sistema EDI (sistema de intercambio de datos) con los proveedores de
+suministros para generar pedidos automáticos, evitar la ruptura del stock y asegurar el
+aprovisionamiento de los suministros.
+
+
+
+Implementar un sistema inteligente de planificación de campañas para asegurar el
+aprovisionamiento adecuado de mano de obra para la cosecha y envasado de productos.
+Para el caso de exportaciones a través de intermediarios como Mission Produce,
+implementar un sistema EDI para compartir información en línea.
+
+2.2.3 Compras y externalización
+Desde la perspectiva de externalización, se recomienda aplicar una estrategia que externalice la
+provisión de envases y embalajes bajo el modelo de externalización compartida, ya sea de modo
+local, para soportar la capacidad de producción en el Perú, o de modo offshore, que responda a la
+capacidad de producción global.
+2.2.4 Calidad, lean management y mejora continua
+La calidad se aplica en los enfoques de gestión destinados a mejorar la forma en que operan las
+empresas para cumplir la promesa hecha al cliente. En el caso de Camposol, se propone
+implementar la estrategia de aseguramiento de calidad que permita identificar y solucionar de raíz
+la causa de los problemas de calidad (Moscoso y Lago, 2016).
+
+El lean management es un enfoque que busca incrementar el valor para los clientes gracias a la
+reducción de las actividades que no generan valor (muda) con acciones de mejora (kaisen) a lo
+largo de los flujos de valor (value stream). La mejora continua contiene un alto nivel de cambio
+en gestión en la organización y las herramientas y metodologías para la mejora continua deben
+formar parte de gestión de la calidad.
+
+40
+
+A través de una estrategia de mejora continua, se propone la reducción de la muda obvia, como
+inventarios excesivos o tiempos demasiado largos en el proceso de plazos de entrega, y desarrollar
+un proceso de automatización de las faenas de cosecha que permita incluir información confiable
+y en línea. Esta información soportará los procesos de trazabilidad del producto.
+2.2.5 Innovación
+La innovación en operaciones significa idear formas nuevas de operar en una empresa, cuyo
+objetivo es fortalecer la propuesta de valor y permitir una mayor rentabilidad a largo plazo
+(Moscoso y Lago, 2016). Del análisis hecho, se ha determinado que las siguientes deben ser las
+estrategias que se desarrollen, basadas en el uso de la tecnología:
+
+
+Desarrollo de pesticidas biológicos, como insectos y nematodos, para el control natural
+de plagas, con la finalidad de reducir el uso de pesticidas.
+
+
+
+Transformación digital en el sistema de valor, con intercambio digital de datos, lo que
+permitirá agilizar la transmisión de información y facilitar la coordinación entre los
+proveedores, Camposol, los distribuidores y los minoristas.
+
+
+
+Análisis de datos y capacidad para analizar preferencias, comportamientos y tendencias,
+con lo que se reducirían costos de análisis de mercados y costos de desarrollo de nuevos
+productos y se abarataría la personalización de la oferta.
+
+
+
+Mejorar el sistema de trazabilidad, incluyendo un sistema de consulta en línea para los
+consumidores finales, donde puedan consultar los datos de trazabilidad de los productos.
+
+2.3 Plan de acción de operaciones
+El plan de acción del área funcional de operaciones puede verse en la tabla 23.
+
+41
+
+Tabla 23. Plan de acción de operaciones
+Objetivo
+OO1
+Contribuir a la
+mejora
+del
+rendimiento
+de frutas y
+verduras por
+hectárea.
+
+OO2
+Reducción de
+mermas por
+hectárea.
+
+Estrategia de operaciones
+Acciones
+EO1: Control de plagas para conservar Implementación de control biológico de plagas con
+la calidad
+insectos benéficos naturales y nematodos.
+Automatización de los procesos de siembra y cosecha
+EO2: Optimizar la mano de obra,
+para optimizar la asignación de los recursos por faenas en
+envases, embalajes, transporte y
+época de campaña.
+herramientas durante las faenas de
+Externalización de la producción de envases y embalajes
+siembra y cosecha.
+con proveedores en el Perú y el exterior.
+EO3: Personalización de la estrategia
+Gestión del suelo y del agua para los cultivos, de
+nutricional de los cultivos.
+acuerdo con las condiciones ambientales y genéticas de
+los productos.
+EO4: Control de plagas para minimizar
+mermas de cultivos.
+
+Implementación del control biológico de plagas con
+insectos benéficos naturales y nematodos.
+
+EO5: Gestión de la trazabilidad para Mejora del sistema de trazabilidad, incluyendo un sistema
+controlar lotes de producción.
+de consulta en línea para los consumidores finales.
+
+OO3
+EO6: Aplicación de economías de
+Incrementar la
+escala para asegurar el abastecimiento
+capacidad de
+continuo de frutas y verduras frescas.
+siembra.
+OO4
+Incrementar el EO7: Implementación de una cultura de
+número
+de innovación, incentivando el desarrollo
+pruebas
+de de proyectos a través de pruebas de
+concepto del concepto.
+cultivo.
+Fuente: Elaboración propia, 2021.
+
+Adquisición y desarrollo de quinientas hectáreas de
+tierras, priorizando la ubicación geográfica (Colombia).
+Cultivo de mil hectáreas de tierras no desarrolladas en el
+Perú.
+Implementación de un sistema que soporte los procesos
+de innovación desde la ideación, el diseño, el prototipo y
+la ejecución de las pruebas de concepto.
+
+2.4 Presupuesto
+Se estableció el presupuesto, como puede apreciarse en la tabla 24, para el área funcional de
+operaciones.
+Tabla 24. Presupuesto operaciones (en miles de USD)
+Objetivo
+
+Estrategia
+
+Inv.
+
+OO1
+
+EO1
+EO2
+EO3
+EO4
+
+1.241.08
+2.068.47
+
+EO5
+EO6
+EO6
+EO7
+
+827.39
+1.821.90
+5.378.03
+
+OO3
+OO3
+OO4
+
+Total
+Fuente: Elaboración propia, 2021.
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+64.50
+
+67.03
+
+126.83
+
+279.34
+
+289.69
+
+161.25
+225.75
+
+167.57
+234.59
+
+317.06
+443.89
+
+698.36
+977.71
+
+724.23
+1.013.92
+
+1.241.08
+
+12.577.97
+
+42
+
+2.5 Monitoreo y control
+Se establecerán controles para la ejecución, el seguimiento y el monitoreo del plan de operaciones,
+para identificar potenciales desviaciones o riesgos y adecuar el plan a las nuevas condiciones del
+mercado.
+3. Plan funcional de recursos humanos
+3.1 Objetivos de recursos humanos
+Se establecieron los objetivos para el área funcional de recursos humanos, como puede verse a
+continuación.
+Tabla 25. Objetivos de recursos humanos
+Objetivo
+estratégico
+O3. Contribuir
+a incrementar
+los ingresos en
+29% en el 5to.
+Año – 2021
+O3. Contribuir
+a incrementar
+los ingresos en
+29% en el 5to.
+Año – 2021
+O4. Contribuir
+a incrementar
+participación
+de mercado a
+nivel global en
+2%
+
+Objetivo
+específico
+
+Indicador
+
+Porcentaje
+de
+ORH1. Mejorar el
+satisfacción sobre el
+ambiente laboral
+ambiente de trabajo
+ORH2. Mantener
+la tasa de rotación
+de personal en
+Perú, EE.UU. y
+Europa
+ORH3. Mantener
+la rotación de
+empleados dentro
+del promedio en
+China.
+
+ORH4. Mejorar la
+productividad de
+O5. Contribuir los colaboradores
+a diversificar la en campo.
+capacidad de ORH5. Mejorar la
+producción
+relación con los
+sostenible
+sindicatos.
+ORH6 Reducir las
+brechas culturales
+en Camposol
+Fuente: Elaboración propia, 2021.
+
+Índice de rotación de
+personal
+
+Tasa media de rotación
+en China - 19%.
+
+Número de horas de
+capacitación
+adicionales
+
+2016
+(base)
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+79%
+
+81%
+
+83%
+
+85%
+
+87%
+
+89%
+
+5%
+
+5%
+
+5%
+
+5%
+
+5%
+
+5%
+
+No
+aplica
+
+19%
+
+19%
+
+19%
+
+19%
+
+19%
+
+No
+aplica
+
+27
+
+28
+
+53
+
+116
+
+120
+
+95%
+
+95%
+
+95%
+
+95%
+
+95%
+
+2
+
+2
+
+3
+
+4
+
+4
+
+Porcentaje de acuerdos
+No
+cumplidos
+con
+el
+aplica
+sindicato
+Número de programas
+No
+internos en gestión de
+aplica
+cultura y diversidad
+
+3.2 Estrategias
+3.2.1 Gestión de la diversidad
+La gestión de la diversidad permite la integración de los colaboradores no tradicionales y
+minoritarios a la compañía, a fin de lograr una ventaja competitiva. Desde el punto de vista de
+
+43
+
+diversidad en el capital humano, en Camposol se ha podido identificar los siguientes grupos:
+colaboradores peruanos del área de operaciones y colaboradores del área comercial en los Estados
+Unidos, Europa y China, con la finalidad de gestionar la diversidad al interior de Camposol
+mediante una propuesta que desarrolle una cultura de organización integradora, soportada en la
+gestión de programas que formen en diversidad y cultura (Goméz-Mejía, Balkin y Cardy, 2016).
+3.2.2 Reclutamiento y selección
+La planificación de recursos humanos permitirá garantizar la cantidad de personal adecuado para
+ofrecer un determinado nivel de servicio, y va a depender de la oferta y la demanda del trabajo
+(Goméz-Mejía, Balkin y Cardy, 2016). En Camposol, durante las campañas de cosecha, se llega
+a demandar alrededor de 15.000 trabajadores, para lo cual se recomienda utilizar estrategias de
+contratación de trabajadores temporales y subcontratados.
+3.2.3 Evaluación de desempeño
+La evaluación del desempeño permite identificar, medir y gestionar el rendimiento de los recursos
+humanos de las organizaciones (Goméz-Mejía, Balkin y Cardy, 2016). Se recomienda
+implementar un sistema de evaluación de desempaño basado en un modelo de competencias,
+incluyendo variables como cultura Camposol, cuidado del medio ambiente, calidad y
+responsabilidad social y medioambiental.
+3.2.4 Formación de los trabajadores
+La formación es el proceso en el que se proporciona a los empleados habilidades específicas que
+volverán más eficiente su labor, y el desarrollo ofrece a los trabajadores habilidades que se
+necesitarán a futuro en las organizaciones (Goméz-Mejía, Balkin y Cardy, 2016). Se recomienda
+implementar la formación técnica de los trabajadores para que puedan incrementar su
+productividad, su calidad total y el lean management a través de procesos de mejora continua.
+3.2.5 Desarrollo de las relaciones internas
+Un programa de reconocimiento permite motivar a los empleados recompensándolos por sus ideas
+y contribuciones (Goméz-Mejía, Balkin y Cardy, 2016). Con el propósito de motivar a los
+trabajadores para que su rendimiento en el campo aumente, se recomienda implementar un
+sistema de reconocimiento a los trabajadores que mejore y mantenga su rendimiento durante las
+campañas.
+
+44
+
+3.2.6 Gestión de la retribución
+La tasa media de rotación voluntaria en China es del 19 %, aproximadamente, por lo que, al
+implementarse las oficinas comerciales de Camposol en China, y a fin de retener el talento, se
+recomienda desarrollar una estrategia de retribución superior a la del mercado, que incluya
+retribuciones no monetarias, como desarrollo profesional, línea de carrera o formación de
+habilidades directivas (Goméz-Mejía, Balkin y Cardy, 2016).
+3.2.7 Gestión de relación con los representantes de los trabajadores
+Un sindicato representa los intereses de los trabajadores frente a los directivos en temas como
+salario, jornada laboral y las condiciones de trabajo (Goméz-Mejía, Balkin y Cardy, 2016). El
+Sindicato de Trabajadores Empresa Camposol S.A. – SITECASA representa a los trabajadores
+de Camposol en el Perú. Debido al alto poder de negociación que tiene frente a Camposol, se
+recomienda aplicar una estrategia de aceptación del sindicato y admitir la negociación colectiva
+para el establecer las condiciones para el lugar de trabajo.
+3.3. Plan de acción de recursos humanos
+El plan de acción del área funcional de recursos humanos puede verse en la tabla 26.
+Tabla 26. Plan de acción de recursos humanos
+Objetivo
+ORH1. Mejorar el
+índice de desempeño
+de los colaboradores.
+
+Estrategia de recursos humanos
+ERH1. Implementar un modelo de
+evaluación de desempeño basado en un
+modelo de competencias.
+
+Acciones
+Implementar un modelo de evaluación de
+desempeño considerando estas variables:
+cultura Camposol, cuidado del medio
+ambiente, calidad y responsabilidad social y
+medioambiental.
+
+ORH2. Reducir el
+índice de rotación de
+los colaboradores.
+
+ERH2. Implementar una estrategia de
+retribución superior al mercado,
+incluyendo retribuciones no monetarias.
+
+Dar bonos por el cumplimiento de objetivos.
+Ofrecer desarrollo profesional, líneas de
+carrera, o formación de habilidades directivas.
+
+ORH3. Mantener la
+tasa de rotación de
+empleados dentro del
+promedio en China.
+
+ERH3. Implementar una estrategia de
+retribución superior al mercado,
+incluyendo retribuciones no monetarias.
+
+ORH4. Mejorar la
+productividad de los
+colaboradores en el
+campo.
+
+ERH4. Implementar un sistema de
+reconocimiento a los trabajadores.
+
+Realizar un estudio de análisis de puestos de
+trabajo para cubrir las vacantes en el mercado
+chino.
+Ofrecer desarrollo profesional, líneas de
+carrera o formación de habilidades directivas.
+Implementar un sistema de reconocimiento a
+trabajadores que mejoren o mantengan su
+rendimiento durante las campañas de cosecha.
+
+45
+
+Objetivo
+ORH5. Mejorar la
+relación con los
+sindicatos.
+
+Estrategia de recursos humanos
+ERH5. Aceptar los sindicatos como
+representantes de los trabajadores.
+
+Acciones
+Reconocer la negociación colectiva como el
+mecanismo para establecer las condiciones
+para el lugar de trabajo
+
+ORH6. Reducir las
+brechas culturales en
+Camposol.
+
+ERH6. Desarrollar una cultura de
+organización integradora.
+
+Implementar programas de formación interna
+en diversidad y cultura.
+
+Fuente: Elaboración propia, 2021.
+
+3.4 Presupuesto
+En la tabla 27 se puede ver el presupuesto para el área en mención.
+
+Tabla 27. Presupuesto de recursos humanos (en miles de USD)
+Objetivo
+
+Estrategia
+
+Inv.
+
+ORH1
+ORH2
+ORH3
+ORH4
+ORH5
+ORH6
+
+ERH1
+ERH2
+ERH3
+ERH4
+ERH5
+ERH6
+
+206.29
+
+TOTAL
+Fuente: Elaboración propia, 2021.
+
+206.29
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+42.88
+42.88
+26.80
+26.80
+42.88
+182.26
+
+44.56
+44.56
+27.85
+27.85
+44.56
+189.39
+
+84.32
+84.32
+52.70
+52.70
+84.32
+358.37
+
+185.73
+185.73
+116.08
+116.08
+185.73
+789.34
+
+192.61
+192.61
+120.38
+120.38
+192.61
+818.57
+
+3.5 Monitoreo y control
+Se establecerán controles para la ejecución, el seguimiento y el monitoreo del presente plan, con
+el objetivo de identificar potenciales desviaciones o riesgos y adecuar el plan a las nuevas
+condiciones del mercado.
+4. Plan de responsabilidad social corporativa
+4.1 Objetivos de responsabilidad social corporativa
+Se establecieron los objetivos, como puede verse en la tabla 28, para el área de responsabilidad
+social corporativa.
+Tabla 28. Objetivos de responsabilidad social corporativa
+Objetivo
+estratégico
+
+Objetivo
+específico
+ORS1
+O6. Mejorar
+Reducción de
+la reputación
+reclamos de los
+corporativa
+clientes
+
+Indicador
+
+2016
+(base)
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+Número de
+reclamos de los
+clientes por año
+
+142
+
+120
+
+100
+
+90
+
+60
+
+30
+
+46
+
+Objetivo
+estratégico
+
+O6. Mejorar
+la reputación
+corporativa
+
+O6. Mejorar
+la reputación
+corporativa
+
+Objetivo
+específico
+ORS2
+Reducción de
+accidentes en el
+trabajo
+ORS3
+Incremento de
+programas
+sociales en la
+comunidad de
+Chao y Viru
+
+2016
+(base)
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+Número de
+accidentes por
+año
+
+756
+
+706
+
+656
+
+606
+
+556
+
+506
+
+Monto invertido
+en programas
+sociales (miles
+USD)
+
+51
+
+19.5
+
+20.3
+
+38.2
+
+84.2
+
+87.3
+
+511.156
+m3
+
+60.000
+m3
+
+60.000
+m3
+
+60.000
+m3
+
+60.000
+m3
+
+60.000
+m3
+
+Indicador
+
+2016
+(base)
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+Número de
+proyectos de
+conservación de
+biodiversidad
+por año
+
+No
+aplica
+
+1
+
+1
+
+2
+
+3
+
+3
+
+Indicador
+
+Reducción de
+ORS4
+consumo de
+Reducción de la
+agua en plantas
+huella hídrica de
+y campos de
+Camposol
+Chao
+
+Objetivo
+estratégico
+
+Objetivo
+específico
+
+ORS5
+Mejoramiento
+de la
+conservación de
+biodiversidad
+Fuente: Elaboración propia, 2021.
+O6. Mejorar
+la reputación
+corporativa
+
+4.2 Estrategias
+4.2.1 Responsabilidad social empresarial
+El desarrollo sostenible consiste en producir, consumir y vivir con el fin de asegurar la salud
+económica, social y ambiental para siempre (Capriotti y Schulze, 2010). En ese sentido, a fin de
+asegurar la sostenibilidad de Camposol, se recomienda aplicar una estrategia de responsabilidad
+social con orientación hacia el desarrollo sostenible.
+4.2.2 Valor compartido
+Se define el valor compartido como las políticas y procedimientos que permiten incrementar la
+competitividad de la compañía y mejorar las condiciones socioeconómicas en las comunidades
+donde opera. Las estrategias que permiten generar valor compartido son rediseñar productos y
+desarrollar mercados, redefinir la productividad en la cadena de valor y construir clusters de
+apoyo para el sector en torno de la empresa (Porter y Kramer, 2011).
+Desde la perspectiva de rediseñar productos, Camposol se enfoca en ofrecer productos frescos,
+nutritivos y saludables, que sean socialmente responsables y ambientalmente amigables; en ese
+sentido, ser recomienda aplicar una estrategia de conservación de la biodiversidad en armonía con
+la agroindustria en las zonas de influencia de Camposol, y el desarrollo de productos alternativos
+al uso de pesticidas para el tratamiento de los cultivos.
+
+47
+
+Considerando la productividad en la cadena de valor como fuente generadora de valor
+compartido, se recomienda las siguientes estrategias: disminución del uso de agua en la siembra,
+para reducir la huella hídrica de la compañía y reducir los costos de producción, mejora de la
+productividad de obreros y empleados, gestionando de manera efectiva la seguridad y la salud en
+el trabajo y reduciendo la cantidad de accidentes en las jornadas de trabajo, y gestión efectiva de
+la relación con los clientes, para reducir el número de reclamos por parte de los minoristas en
+destino.
+
+Asimismo, el desarrollo de clusters locales en las zonas de operación de Camposol permite
+implementar las siguientes estrategias de valor compartido: gestionar de manera transparente la
+relación con los proveedores de las comunidades locales y desarrollar acuerdos público-privadas
+para el desarrollo de programas sociales para desarrollar capacidades económicas en las
+comunidades.
+4.3 Plan de responsabilidad social corporativa
+Se estableció el plan de acción para el área de responsabilidad social corporativa, como se observa
+en la tabla 29.
+
+Tabla 29. Plan de acción de responsabilidad social corporativa
+Objetivo
+ORS1: Reducción de
+reclamos de los
+clientes.
+
+Estrategia de RSC
+
+Acciones
+
+Implementación de un plan de gestión de reclamos.
+ERS1: Gestión, de manera efectiva,
+Seguimiento y monitoreo de los reclamos de los
+de la relación con los minoristas.
+minoristas.
+
+ERS2: Aplicación de políticas
+ORS2: Reducción de
+Seguimiento y monitoreo al plan anual de seguridad
+efectivas de seguridad y salud en el
+accidentes en el trabajo.
+y salud en el trabajo.
+trabajo.
+
+ORS3: Incremento de
+programas sociales en
+la comunidad de Chao
+y Viru.
+
+ORS4: Reducción de la
+huella hídrica de
+Camposol.
+
+Mejora de la comunicación a nivel interno y externo
+ERS3: Gestión transparente de la
+de Camposol.
+relación con proveedores locales de
+Implementación de un sistema de consulta en línea
+Chau y Viru.
+sobre los procesos de contrataciones locales.
+ERS4:
+Desarrollo
+e Desarrollo de acuerdos público-privadas para poner
+implementación de programas en marcha programas sociales para desarrollar
+sociales en las comunidades.
+capacidades económicas en las comunidades.
+ERS5:
+Implementación
+de Implementación de un sistema de riego inteligente
+tecnología para el control y el uso utilizando el internet de las cosas y sensores
+efectivo del agua.
+medioambientales.
+
+Desarrollo de proyectos de conservación de
+biodiversidad en armonía con las operaciones de
+ORS5: Conservación de ERS6: Desarrollo de programas de
+agroindustria.
+la biodiversidad.
+conservación de la biodiversidad.
+Implementación de control de plagas biológicas
+naturales con insectos y nematodos.
+Fuente: Elaboración propia, 2021.
+
+48
+
+4.4 Presupuesto
+En la tabla 30 puede verse el presupuesto para el área de responsabilidad social corporativa.
+Tabla 30. Presupuesto de responsabilidad social corporativa (en miles de USD)
+Objetivo
+ORS1
+
+Estrategia
+ERS1
+
+ORS2
+
+ERS2
+
+ORS3
+
+ERS3
+ERS4
+ERS5
+ERS6
+
+ORS4
+ORS5
+
+Inv.
+
+399.09
+399.09
+249.43
+1.047.62
+
+TOTAL
+Fuente: Elaboración propia, 2021.
+
+2017
+11.67
+
+2018
+12.12
+
+2019
+22.94
+
+2020
+50.53
+
+2021
+52.40
+
+19.45
+
+20.21
+
+38.23
+
+84.21
+
+87.33
+
+19.45
+
+20.21
+
+38.23
+
+84.21
+
+87.33
+
+50.56
+
+52.54
+
+99.41
+
+218.96
+
+227.07
+
+4.5 Monitoreo y control
+Se establecerán controles para la ejecución, el seguimiento y el monitoreo del plan de
+responsabilidad social corporativa, con el objetivo de identificar potenciales desviaciones o
+riesgos a fin de poder adecuar el plan a las nuevas condiciones del mercado.
+5. Plan funcional de finanzas y evaluación financiera
+Se presenta el plan de finanzas y evaluación financiera incremental que considera las iniciativas
+propuestas en plan estratégico 2017-2021 para Camposol.
+5.1 Objetivos de finanzas
+Se plasmaron los objetivos para el área de finanzas en la tabla 31.
+Tabla 31. Objetivos de finanzas
+Objetivo estratégico
+
+Objetivo específico
+
+O1:
+Contribuir
+a
+OF1: Incrementar el
+incrementar el EBITDA a
+EBITDA en 20% al
+20%
+2021
+OF2: Contribuir al
+rendimiento de la
+inversión del
+accionista
+Fuente: Elaboración propia, 2021.
+O2: Contribuir a
+incrementar el ROE a
+25%
+
+Indicador
+
+EBITDA
+
+ROE
+
+2016
+(base)
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+13%
+
+18%
+
+18%
+
+19%
+
+20%
+
+20%
+
+14%
+
+20%
+
+20%
+
+22%
+
+25%
+
+25%
+
+5.2 Supuestos
+Para la proyección de los estados financieros se establecieron los siguientes supuestos:
+
+49
+
+
+
+Para la estimación de las ventas sin estrategia, se realizó la proyección con base en la técnica
+de regresión simple, y para las ventas con estrategia, se consideró que los planes
+implementados generarían un impacto de ingresos en los mercados actuales de Europa y de
+los EE.UU. del 1%, 1%, 2%, 4% y 4% para los años 2017 al 2021, respectivamente, y para el
+nuevo mercado en Asia del 7%, 7%, 10%, 25% y 25% para ese mismo periodo.
+
+
+
+La vida útil de los activos adquiridos para la inversión del plan será de cinco años
+
+
+
+El costo de ventas para el plan sin estrategia significará el 60% de los ingresos, y para el plan
+con estrategia se considerará, adicionalmente, el costo de los planes de marketing y
+operaciones.
+
+
+
+Los gastos de administración y ventas para el plan sin estrategia serán de un 22% del total de
+los ingresos, y para el plan con estrategia, se considerarán, adicionalmente, los gastos de los
+planes de recursos humanos y responsabilidad social.
+
+
+
+La tasa de interés para el financiamiento de cinco años será del 6.7% anual.
+
+
+
+La tasa del impuesto a la renta será del 15%.
+
+
+
+En el plan con estrategia para el año de liquidación, se aplicará perpetuidad, con una tasa de
+crecimiento del flujo de caja del 7%.
+
+5.3 Presupuesto
+Las inversiones en el plan estratégico propuesto para Camposol se descomponen en USD 14.516
+millones de CAPEX y USD 10.286 millones de OPEX. En la tabla 32 se muestra el presupuesto
+consolidado de planes funcionales y de responsabilidad social por los periodos 2017-2021.
+
+Tabla 32. Presupuesto de OPEX y CAPEX de los planes estratégicos (en miles de USD)
+Inversión inicial
+(CAPEX)
+
+2017
+(OPEX)
+
+2018
+(OPEX)
+
+2019
+(OPEX)
+
+2020
+(OPEX)
+
+2021
+(OPEX)
+
+684.79
+12.577.97
+206.29
+
+327.08
+225.75
+182.26
+
+344.38
+234.59
+189.39
+
+685.60
+443.89
+358.37
+
+1.488.33
+977.71
+789.34
+
+1.558.27
+1.013.92
+818.57
+
+1.047.62
+
+50.56
+
+52.54
+
+99.41
+
+218.96
+
+227.07
+
+Total
+14.516.67
+Fuente: Elaboración propia, 2021.
+
+785.66
+
+820.90
+
+1.587.27
+
+3.474.33
+
+3.617.83
+
+Planes estratégicos
+Marketing
+Operaciones
+Recursos humanos
+Responsabilidad
+social
+
+5.4 Análisis del plan financiero
+5.4.1 Análisis sin plan estratégico
+El análisis de Camposol sin implementar el plan estratégico está enfocado en la producción de
+frutas y verduras frescas. El estado de resultados se detalla en la tabla 33.
+
+50
+
+Tabla 33. Estado de resultados proyectadas sin estrategia (en miles de USD)
+2017
+Ingresos
+302.068
+Costos de
+(181.241)
+ventas
+120.827
+Utilidad bruta
+Gastos
+(66.455)
+administración
+y ventas
+54.372
+EBITDA
+Depreciación
+(15.103)
+39.269
+Utilidad
+operativa
+Gastos
+(24.800)
+financieros
+14.469
+Utilidad antes
+de IR
+Impuesto a la
+(2.170)
+renta (15%)
+Utilidad neta
+12.299
+Fuente: Elaboración propia, 2021.
+
+2018
+313.686
+(188.212)
+
+2019
+325.304
+(195.182)
+
+2020
+336.922
+(202.153)
+
+2021
+348.540
+(209.124)
+
+125.474
+(69.011)
+
+130.122
+(71.567)
+
+134.769
+(74.123)
+
+139.416
+(76.679)
+
+56.463
+(15.684)
+40.779
+
+58.555
+(16.265)
+42.290
+
+60.646
+(16.846)
+43.800
+
+62.737
+(17.427)
+45.310
+
+(24.800)
+
+(24.800)
+
+(24.800)
+
+(24.800)
+
+15.979
+
+17.490
+
+19.000
+
+20.510
+
+(2.397)
+
+(2.623)
+
+(2.850)
+
+(3.077)
+
+13.582
+
+14.866
+
+16.150
+
+17.434
+
+Del análisis de los resultados, se puede indicar que hay un crecimiento en las ventas y el EBITDA
+se ha mantenido de forma constante en 18% para los años 2017 al 2021, respectivamente. Los
+gastos financieros reflejados son el resultado de los intereses de la deuda antigua.
+5.4.2 Análisis con plan estratégico
+El plan con estrategia que se muestra en la tabla 34 contempla la implementación de las acciones
+propuestas en los planes funcionales y de responsabilidad social, cuyo objetivo ha sido la
+contribución en el desarrollo de recursos y capacidades que permitirán ofrecer frutas y verduras
+de manera consistente durante todo el año.
+Tabla 34. Estado de resultados proyectadas con estrategia (en miles de USD)
+Ingresos
+Costos de ventas
+Utilidad bruta
+Gastos administración y ventas
+EBITDA
+Depreciación
+Utilidad operativa
+Gastos financieros
+Utilidad antes de IR
+Impuesto a la renta (15%)
+Utilidad neta
+Fuente: Elaboración propia, 2021.
+
+2017
+305.374
+(182.288)
+123.086
+(66.688)
+56.398
+(16.567)
+39.832
+(25.374)
+14.458
+(2.169)
+12.289
+
+2018
+317.121
+(189.304)
+127.817
+(69.253)
+58.564
+(17.148)
+41.417
+(25.273)
+16.143
+(2.421)
+13.722
+
+2019
+331.804
+(197.283)
+134.521
+(72.025)
+62.496
+(17.729)
+44.767
+(25.166)
+19.601
+(2.940)
+16.661
+
+2020
+351.238
+(206.759)
+144.480
+(75.131)
+69.349
+(18.309)
+51.039
+(25.052)
+25.987
+(3.898)
+22.089
+
+2021
+363.387
+(213.915)
+149.472
+(77.724)
+71.747
+(18.890)
+52.857
+(24.930)
+27.927
+(4.189)
+23.738
+
+Del análisis de los resultados, se puede indicar que el crecimiento en las ventas ha tenido un
+impacto considerable para los años 2020 y 2021, debido a que, con la adquisición de tierras, se
+
+51
+
+ha podido cubrir las brechas de las plantas actuales. El EBITDA se mantuvo de forma constante
+en 18% para los años 2017 y 2018, con un crecimiento del 2019 al año 2021, hasta llegar al 20%.
+Los gastos financieros reflejados son el resultado de los intereses de la deuda antigua y del monto
+del financiamiento adquirido por Camposol en la inversión (CAPEX) inicial del plan propuesto.
+
+La utilidad neta proyectada respecto de los ingresos obtenidos será de 3.9%, 4.2%, 4.9%, 6.2% y
+6.4% para los años 2017, 2018, 2019,2020 y 2021, respectivamente.
+5.4.3 Flujo de caja económico y financiero
+En la tabla 35 se muestra el flujo de caja financiero incremental que considera los ingresos y los
+egresos por las iniciativas propuestas en los planes funcionales y de responsabilidad social.
+Tabla 35. Flujo de caja económico y financiero (en miles de USD)
+Inversión
+-
+
+1
+3.306
+
+2
+3.435
+
+3
+6.500
+
+4
+14.316
+
+5
+14.847
+
+(14.517)
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+(1.280)
+54
+
+(1.334)
+56
+
+(2.559)
+107
+
+(5.614)
+235
+
+(5.837)
+244
+
+-
+
+IR por pagar
+F.C. económico
+(14.517)
+Flujo
+de
+8.565
+financiamiento
+F.C. financiero
+(5.952)
+Fuente: Elaboración propia, 2021.
+
+2
+2.082
+
+(25)
+2.133
+
+(317)
+3.731
+
+(1.048)
+7.889
+
+(1.112)
+8.141
+
+90.381
+
+(1.986)
+
+(2.001)
+
+(2.017)
+
+(2.034)
+
+(2.053)
+
+-
+
+96
+
+131
+
+1.714
+
+5.855
+
+6.089
+
+90.381
+
+Ingresos
+Inversión
+Costos operativos
+Cambio en KL
+IGV por pagar
+
+Liq.
+-
+
+Para realizar la evaluación económica financiera se estableció una inversión inicial en el año 0 de
+USD 14.517 millones. Esta inversión se financiaría con la siguiente estructura de capital: 59% de
+deuda y 41% de aporte de fondos propios. Para el periodo de liquidación se aplicó perpetuidad y
+para el cálculo del CoK se aplicó el modelo CAPM, o modelo de valoración de activos
+financieros, considerando la beta apalancada, como se ve en la tabla 36, para el sector de food
+wholesalers (Damodaran, 2021).
+Tabla 36. Información para aplicar el beta apalancado
+Empresa
+Food wholesalers
+
+Beta L
+1.03
+
+Tasa impositiva
+15%
+
+Ratio D/E
+1.41
+
+Beta U
+0.4685
+
+Fuente: Elaboración propia, 2021, con base en Damodaran, 2021.
+
+52
+
+Tabla 37. Información para aplicar el costo de oportunidad de capital
+Datos
+Tasa de libre riesgo en los
+Estados Unidos
+Rentabilidad esperada del
+mercado
+Beta para la industria
+
+Valor
+2.45%
+13.4%
+1.03
+
+Descripción
+Promedio aritmético del rendimiento de bonos
+de los últimos diez años
+Rentabilidad del mercado de valores 2016 Dow
+Jones
+Riesgo implícito de la industria de mayorista de
+alimentos
+
+Fuente
+(Macro, 2016)
+(Egan, 2016)
+(Damodaran,
+2021)
+
+Fuente: Elaboración propia, 2021, con base en Damodaran, 2021 y Egan, 2016.
+
+La fórmula del COK es la siguiente: Re  Rf    Rm  Rf
+Donde: Re: es el costo de capital, Rf: es la tasa de libre riesgo, : es el beta de la industria y Rm:
+es la rentabilidad esperada del mercado.
+
+En la tabla 37 se muestra que el costo de oportunidad de capital es del 13.74%, lo que significa
+que esta es la rentabilidad mínima esperada por los accionistas.
+
+Según el reporte anual de Camposol, para el año 2016 la tasa de interés otorgada por préstamos
+bancarios era de 6.70%. Para la obtención del WACC, se utilizará su fórmula:
+
+WACC = Kd(1-T) (D/(D+E)) + COK (E/(D+E))
+
+Donde: Kd es el costo de la deuda financiera, T es la tasa de impuestos, D es la deuda financiera
+contraída, E son los fondos propios (aportes del accionista) y COK es la tasa de costo de
+oportunidad de los accionistas.
+Con la aplicación de la fórmula, se obtiene un WACC de 9.03%, lo que significa que esta es la
+tasa de descuento que se utilizará para descontar los flujos de caja futuros para valorar el plan
+estratégico de Camposol.
+5.4.4 Cálculo del valor actual neto (VAN) y de la tasa interna de retorno (TIR)
+De acuerdo con los resultados del flujo de caja económico-financiero incremental, se obtiene lo
+siguiente: VAN económico por 56.737 y VAN financiero por 57.469; asimismo, se halló la TIR
+económica de 48.86% y la TIR financiera de 66.52%.
+La inversión incremental del plan estratégico de Camposol es aceptable, debido a que los flujos
+son positivos y benefician a los accionistas. El proyecto tiene un payback de aproximadamente
+cuatro años.
+
+53
+
+5.4.5 Análisis de sensibilidad
+En el análisis de sensibilidad (ver la tabla 39) se consideró los siguientes escenarios:
+
+-
+
+Pesimista: la probabilidad de ocurrencia de algún evento para los periodos 2020 y 2021
+que obstaculicen el crecimiento de ventas, por lo cual decrecería en 6%, con base en lo
+proyectado, donde el flujo de caja tendría un crecimiento del 3%.
+
+-
+
+Probable: la probabilidad de que al implementar los planes funcionales se genere lo
+proyectado por los investigadores.
+
+-
+
+Optimista: la probabilidad de que en el periodo 2020-2021 crezcan las ventas un 8% más
+de lo proyectado y que el flujo de caja tenga un crecimiento del 7%.
+
+Tabla 38. Análisis de sensibilidad (en miles de USD)
+Escenarios
+VAN económico
+Pesimista
+53.705
+Probable
+56.737
+Optimista
+86.953
+Fuente: Elaboración propia, 2021
+
+TIR económico
+47.04%
+48.86%
+57.77%
+
+VAN financiero
+54.467
+57.469
+87.685
+
+TIR financiero
+64.21%
+66.52%
+77.48%
+
+54
+
+Capítulo VIII. Evaluación y control de la estrategia
+1. Mapa estratégico
+El mapa estratégico se basa en el modelo Balanced Score Card, que contiene cuatro perspectivas:
+financiera, cliente, procesos internos y aprendizaje y crecimiento (Kaplan y Norton, 2003). El
+mapa estratégico de Camposol puede verse en el gráfico 6.
+
+Para la perspectiva financiera, en el plan estratégico incremental propuesto, los objetivos son
+contribuir con el incremento de generación de flujo de caja en el negocio y con el rendimiento de
+la inversión del accionista.
+
+Desde la perspectiva del cliente, las iniciativas del plan estratégico propuestas se enfocarán en
+incrementar los ingresos en los mercados existentes, como el de los Estados Unidos y el de
+Europa, y en los mercados nuevos, como China.
+
+Las iniciativas propuestas para la perspectiva de los procesos internos se enfocarán en optimizar
+el rendimiento de las tierras, reducir las mermas en la producción, incrementar la capacidad de
+siembra diversificada y fortalecer la capacidad de innovación.
+
+Finalmente, en la perspectiva de aprendizaje y crecimiento, las estrategias propuestas de basan en
+generar valor para los trabajadores, mejorando el clima laboral y la productividad, mantener la
+relación con los sindicatos y reducir las brechas culturales a lo interno de Camposol.
+
+Gráfico 6. Mapa estratégico de Camposol
+
+Fuente: Elaboración propia, 2021, con base en Kaplan y Norton, 2003.
+
+55
+
+2. Definición de iniciativas e indicadores propuestos
+Los autores recomiendan la utilización del cuadro de mando integral, el cual permitirá llevar un
+adecuado control de las acciones que se desarrollen a lo largo del tiempo (Kaplan y Norton, 2003).
+Para el plan estratégico de Camposol, se elaboró la tabla que puede verse en el anexo 11, cuyo
+objetivo es evaluar paulatinamente los KPI, como anticipación a posibles desviaciones, con el
+objetivo de aplicar los cambios necesarios.
+
+56
+
+Conclusiones y recomendaciones
+1. Conclusiones
+
+
+Al año 2016, Camposol ha desarrollado su capacidad comercial y de distribución en los
+mercados destino, convirtiéndose en una empresa orientada al mercado, lo que le genera una
+ventaja competitiva respecto de su competencia.
+
+
+
+La capacidad de producción de Camposol no estaba alineada con la dirección estratégica; su
+capacidad de producción al 2016 no permitía cubrir el incremento de demanda por el ingreso
+al mercado de China y no tenía una oferta constante durante todo el año.
+
+
+
+Camposol rediseño su portafolio de productos para enfocarse en frutas y verduras frescas y
+aprovechar el incremento de la demanda por el creciente interés de los consumidores a nivel
+global de llevar una vida sana.
+
+
+
+El segmento de frutas y verduras frescas en la industria de alimentos tiene altas barreras de
+entrada de otros competidores y una baja amenaza de productos sustitutos, lo que incrementa
+el grado de atractividad de la industria.
+
+
+
+Camposol tiene posición interna por encima del promedio, principalmente por la ubicación
+geográfica de sus tierras, su experiencia en el sector de alimentos y el control del canal de
+producción y distribución de sus productos.
+
+
+
+Las debilidades identificadas de Camposol son la falta de capacidad de ofrecer sus productos
+de manera consistente durante todo el año y la baja inversión en promocionar su marca e
+integrar la cultura de producción con la cultura comercial.
+
+
+
+La visión propuesta en el plan estratégico que se sugiere es ofrecer productos de manera
+consistente durante todo el año a las familias del mundo, por lo que se propone incrementar
+la capacidad de producción en el Perú y diversificar las tierras en otros países con calendario
+productivo complementario.
+
+
+
+La evaluación financiera de las iniciativas propuestas es viable, porque tiene un VAN positivo
+y una TIR superior al COK.
+
+El ROE, al quinto año, es del 171% en beneficio del
+
+inversionista.
+2. Recomendaciones
+
+
+Poner en práctica el plan estratégico propuesto, permitirá soportar la dirección estratégica de
+Camposol para convertirla en empresa proveedora de frutas y verduras frescas para las
+familias del mundo durante todo el año. Esto es viable económica y financieramente.
+
+57
+
+
+
+Evaluar de manera constante el entorno externo para identificar las oportunidades y las
+amenazas del sector de manera oportuna, así como las capacidades internas, para tomar
+ventaja de las fortalezas y moderar las debilidades.
+
+
+
+Continuar desarrollando el mercado de Europa y los Estados Unidos y penetrar el mercado
+de China, teniendo en cuenta la estrategia de liderazgo en costos y buscando la excelencia
+operativa.
+
+
+
+Recomendamos ingresar al mercado Asiático a través de China, debido a que el crecimiento
+económico es alto , el nivel de pobreza, analfabetismo y desnutrición es bajo.
+
+
+
+Optimizar la capacidad de producción, adquiriendo tierras en otros países fuera del Perú, con
+la finalidad de comercializar frutas y verduras frescas todo el año y no depender del calendario
+peruano; asimismo, incursionar en el cultivo de tierras no desarrolladas en el Perú.
+
+
+
+Invertir en la internacionalización de la capacidad productiva de Camposol con la adquisición
+de 500 hectáreas en Colombia, debido a que el calendario productivo colombiano de
+aguacates se complementa con el de Perú y se aprovecharía el ecosistema empresarial
+cafetalero implementado.
+
+
+
+Sobre las variedades de los arándanos, Camposol actualmente viene produciendo Biloxi, por
+lo que se recomienda en los siguientes años producir otras variedades como Ventura, Emerald
+y otros.
+
+
+
+Implementar iniciativas para fortalecer la capacidad de investigación, desarrollo e
+innovación, eficiencia del uso del agua, control de plagas y enfermedades y postcosecha.
+
+
+
+Ejecutar programas de multidiversidad y multiculturalidad para fortalecer la cultura de
+Camposol y los proyectos de conservación de biodiversidad en las zonas de producción.
+
+
+
+Monitorear de forma mensual y trimestral los indicadores del Balanced Score Card para que
+estén alineados con la estrategia general de Camposol e identificar desviaciones con respecto
+de los indicadores.
+
+58
+
+Bibliografía
+
+
+Alarco,
+
+Germán.
+
+"Economía
+
+https://revistaideele.com,
+
+peruana
+
+2021,
+
+2016:
+
+fecha
+
+entre
+
+sueños
+
+de
+
+y
+
+consulta:
+
+realidades".
+25/1/2021.
+
+https://revistaideele.com/ideele/revista/257
+
+
+Azcona, José Manuel y Del Prado, Cristina. "Crisis institucional en el Perú del posconflicto:
+1992-2018". Araucaria. Revista Iberoamericana de Filosofía, Política, Humanidades y
+Relaciones
+
+Internacionales,
+
+2020,
+
+fecha
+
+de
+
+consulta:
+
+10/2/2021.
+
+<
+
+https://dx.doi.org/10.12795/araucaria.2020.i43.25>
+
+
+Banco de Reserva del Perú. "Memoria 2016". https://www.bcrp.gob.pe, 2017, fecha de
+consulta:
+
+28/1/2021.
+
+<https://www.bcrp.gob.pe/docs/Publicaciones/Memoria/2016/memoria-bcrp-2016.pdf>
+
+
+Banco Mundial. "PIB (US$ a precios actuales)". https://datos.bancomundial.org, 2021,
+fecha
+
+de
+
+consulta:
+
+25/2/2021.
+
+<
+
+https://datos.bancomundial.org/indicador/NY.GDP.MKTP.CD >
+
+
+Barney, Jay y Hesterly, William (2008). Strategic Management and Competitive Advantage.
+New Jersey: Pearson Prentice Hall.
+
+
+
+Bonifaz, José Luis; Urrunaga, Roberto; Aguirre, Julio; y Urquizo, César. “Un Plan para salir
+de la pobreza: Plan Nacional de Infraestructura 2016 - 2025”. http://afin.org.pe, 2015, fecha
+de consulta: 15/2/2021. < http://afin.org.pe/wp-content/uploads/2020/10/plan-nacionalinfraestructura-2016-2020.pdf>
+
+
+
+Camposol. "Reporte anual 2016". https://www.camposol.com.pe, 2016, fecha de consulta:
+10/1/2015.
+
+<http://camposol.com.pe/wp-
+
+content/uploads/2019/02/camposol_sustainability_report_2016.pdf>
+
+
+Capriotti, Paul y Schulze, Maria (2010). Responsabilidad Social Empresarial. Santiago de
+Chile: EBS Consulting Group.
+
+
+
+Congreso
+
+de
+
+la
+
+República.
+
+leyes.congreso.gob.pe,
+
+2020,
+
+"Dictámenes/Proyectos_de_Ley/05314".
+fecha
+
+de
+
+consulta:
+
+https://www.
+25/2/2021.
+
+<https://leyes.congreso.gob.pe/Documentos/2016_2021/Dictamenes/Proyectos_de_Ley/05
+314DC04MAY20201204.PDF>
+
+
+D´Alessio, Fernando (2008). El proceso estratégico: Un enfoque de gerencia. México:
+Pearson Educación de México S.A.
+
+59
+
+
+
+Damodaran, Aswath."Betas by Sector (US)". http://people.stern.nyu.edu, 2021, fecha de
+consulta:
+
+5/2/2021.
+
+<
+
+http://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/Betas.html>
+
+
+Daniels, John; Radebaugh, Lee; Sullivan, Daniel (2013). Negocios Internacionales:
+ambientes y operaciones. Decimocuarta Edición, Pearson Educación de México S.A.
+
+
+
+Datos Macro. "Bono de Estados Unidos a 10 años". https://datosmacro.expansion.com,
+2016,
+
+fecha
+
+de
+
+consulta:
+
+20/2/2021.
+
+<Expansion:
+
+https://datosmacro.expansion.com/bono/usa?dr=2016-12>
+
+
+David, Fred (2017), Administración Estratégica. México: Pearson Educación de México,
+S.A. de C.V.
+
+
+
+Egan, Matt. "Dow finishes wild 2016 with 13.4% gain". https://money.cnn.com, 2016, fecha
+de consulta: 25/1/2021. <https://money.cnn.com/2016/12/30/investing/dow-stocks-2016trump/index.html>
+
+
+
+Entelgy. "Las 10 tendencias tecnológicas de Gartner para 2016". https://.www.entelgy.com,
+2015,
+
+fecha
+
+de
+
+consulta:
+
+30/1/2021.
+
+<https://www.entelgy.com/actualidad-
+
+entelgy/actualidad/en-los-medios-2/las-10-tendencias-tecnologicas-de-gartner-para-2016>
+
+
+Exporta Perú TV. "Exportaciones de Arándanos - 8vo Programa Perú Exporta TV".
+https://.www.youtube.com, 2019, fecha de consulta: 15/1/2021. <Exporta Perú TV:
+https://www.youtube.com/watch?v=9e_PKJsuKKw>
+
+
+
+FAO. "La agricultura mundial en la perspectiva del año 2050". http://www.fao.org, 2009,
+fecha
+
+de
+
+consulta:
+
+15/1/
+
+2021.
+
+<http://www.fao.org/fileadmin/templates/wsfs/docs/Issues_papers/Issues_papers_SP/La_a
+gricultura_mundial.pdf>
+
+
+Ghemawat, Pankaj (2007). Redefining Global Strategy: Crossing Borders in a World Where
+Differences Still Matter. Boston, Massachusetts: Harvard Business Review Press
+
+
+
+Goméz-Mejía, Luis; Balkin, David; y Cardy, Robert (2016). Gestión de Recursos Humanos.
+Madrid: Pearson Educación S.A.
+
+
+
+Hax, Arnoldo y Majluf, Nicolás (2004). Estrategias para el Liderazgo Competitivo. Buenos
+Aires: Ediciones Cranica S.A.
+
+
+
+Hernandez, Pedro."6.4 Billion Active IoT Things in 2016". https://www.datamation.com,
+2016, fecha de consulta: 5/1/2021. < https://www.datamation.com/data-center/6-4-billionactive-iot-things-in-2016-gartner/>
+
+60
+
+
+
+Instituto Nacional de Innovación Agraria. "Informe Nacional sobre el Estado de la
+Biodiversidad para la Alimentación y la Agricultura (EBAA)". http://www.fao.org, 2016,
+fecha de consulta: 20/2/2021. <http://www.fao.org/3/ca3507es/ca3507es.pdf>
+
+
+
+Kaplan, Robert y Norton, David (2003). Mapas Estratégicos. Barcelona: Ediciones Gestión
+2000.
+
+
+
+Kotler, Philip y Keller, Kevin (2016). Dirección de Marketing. México: Pearson Educación
+de México.
+
+
+
+Ministerio del Ambiente. "El Perú y el Cambio Climático", https://www.minam.gob.pe,
+2016, fecha de consulta: 28 de Enero de 2021. <https://www.minam.gob.pe/wpcontent/uploads/2016/05/Tercera-Comunicaci%C3%B3n.pdf>
+
+
+
+Moscoso, Philip y Lago, Alejandro (2016). Gestión de operaciones para directivos. Madrid:
+McGraw-Hill Interamericana de España, S.L.
+
+
+
+Porter, Michael (2008). "Las cinco fuerzas competitivas que le dan forma a la estrategia".
+Harvard Business School Review, Reimpresión R0801E-E, 15 paginas consultadas.
+
+
+
+Porter, Michael y Kramer, Mark (Enero 2011). "La creación de valor compartido". Harvard
+Business Review, Reimpresión R1101C-E, 18 paginas consultadas.
+
+
+
+Porter, Michael (2015). Ventaja Competitiva. México: Grupo Editorial Patria S.A.
+
+
+
+Raffino, María Estela. "Alimentos". https://concepto.de, 2020, fecha de consulta: 28/2/2021.
+<https://concepto.de/alimentos/>
+
+
+
+Tello, Mario (2005). Estudios del impacto económico ex-ante del Tratado de Libre Comercio
+entre el Perú y los Estados Unidos. Lima: CENTRUM-Pontificia Universidad Católica del
+Perú.
+
+
+
+Trademap. "Lista de los productos exportados por Perú, serie anual desde 2010 al 2019".
+https://www.trademap.org, 2021, fecha de consulta: 28/1/2021.
+
+61
+
+Anexos
+
+62
+
+Anexo 1. Modelo CAGE – Indicador de oportunidad de mercado
+India
+Paraguay
+Costa Rica
+Italia
+Panamá
+Japón
+Francia
+Reino Unido
+Alemania
+España
+Canada
+China
+Bolivia
+México
+Argentina
+Chile
+Ecuador
+Colombia
+Brasil
+Estados Unidos
+
+1.05%
+1.05%
+1.36%
+1.49%
+1.56%
+1.58%
+1.86%
+1.91%
+2.12%
+2.24%
+2.25%
+2.70%
+3.39%
+3.77%
+3.82%
+5.24%
+
+7.27%
+7.69%
+8.01%
+10.46%
+
+0%
+
+2%
+
+4%
+
+6%
+
+8%
+
+10%
+
+12%
+
+Fuente: Elaboración propia, 2021
+
+63
+
+Anexo 2. Propuesta de misión
+1.
+2.
+
+Componentes
+Clientes
+Productos
+servicios
+
+3.
+4.
+
+Mercados
+Tecnología
+
+5.
+
+Preocupación por la Compromiso de la empresa con el
+subsistencia,
+el crecimiento y la solidez financiera
+crecimiento
+y
+beneficio
+económico
+Filosofía
+Creencias, valores, aspiraciones y las
+prioridades éticas básicas de la empresa
+
+6.
+
+Detalle
+Misión de Camposol
+Clientes de la empresa
+Familias del mundo entero.
+o Principales productos o servicios que Alimentos frescos y saludables.
+ofrece la empresa
+Ámbito de competencia de la empresa
+Global.
+La empresa está actualizada desde el Sí, pues ejecuta proyectos de innovación
+punto de vista tecnológico
+y tecnología.
+Sí. En los últimos años ha realizado
+inversiones en un portafolio de alto
+rendimiento.
+
+Desarrollo del capital
+humano,
+desarrollo social, calidad ética y
+ambientalmente responsable.
+7. Concepto de sí Cuál es la ventaja competitiva más Ubicación privilegiada de tierras, sólida
+mismo
+(ventaja importante de la empresa
+experiencia en producción de alimentos
+competitiva)
+de alto valor nutritivo.
+8. Preocupación por la Respuesta de la empresa a los temas Sí. La empresa trabaja bajo los objetivos
+figura publica
+sociales, comunitarias y ambientales
+de desarrollo sostenible de las Naciones
+Unidas.
+9. Preocupación por La empresa considera un activo valioso Sí. Ofrece a su equipo puestos de
+los empleados
+a los colaboradores
+trabajos dignos, oportunidad de
+crecimiento y desarrollo para ellos y sus
+familias.
+Fuente: Elaboración propia, 2021, con base en David, 2013.
+
+64
+
+Anexo 3. Matriz FODA
+
+O1
+
+Oportunidades
+Tratado de Libre Comercio (TLC)
+
+O2
+
+PBI global
+
+O3
+
+Exportación de frutas
+
+O4
+
+Inflación en el Perú
+
+O6
+
+Consumo de productos frescos y
+saludables
+Uso de tecnología en la siembra
+
+O7
+O8
+O9
+
+Perú con potencial natural
+Ley de promoción agraria en el Perú
+Internet de las cosas
+
+O10
+
+Altas barreras de entrada al sector
+
+O5
+
+F1
+
+Fortalezas
+Gestión de las relaciones con los proveedores
+
+D1
+
+F2
+
+Ubicación geográfica privilegiada
+
+D2
+
+F3
+
+Economías de escala para la producción
+
+Baja inversión en promocionar la marca
+Camposol
+
+F4
+
+Experiencia en el sector de alimentos frescos y saludables
+
+D3
+
+F5
+
+Control completo de la cadena de valor de sus productos
+
+Gestión de alianzas para tercerizar la
+producción
+
+F6
+F7
+
+Gestión de operaciones directas en destino con minoristas
+Gestión de canales de comunicación en destino
+
+D4
+
+Integración de la cultura de producción con la
+cultura comercial
+
+F8
+
+Gestión de valor compartido
+
+D5
+
+F9
+
+Gestión de permisos, licencias y certificaciones
+
+Ofrecimiento de productos de manera
+consistente durante todo el año
+
+F10
+
+Capacidad de investigación, innovación y desarrollo
+
+F11
+
+Prácticas de gobierno corporativo
+
+F12
+
+Producción de alimentos frescos de alto valor nutritivo
+
+Estrategias FO
+1. Mejoramiento del rendimiento y la calidad de las tierras aplicando
+tecnología e innovación (F2, O6)
+2. Ingreso al mercado de China aprovechando la oferta productiva y la
+experiencia en producción y distribución de alimentos (F3, F4, O2, O10)
+3. Desarrollo o adecuación de nuevos productos en otras regiones del Perú
+(sierra y selva), aplicando I+D (F10, F12, O8, 07)
+4. Adquisición y diversificación de la cartera de tierras en otras regiones o
+países para incrementar la capacidad de producción y mitigar el impacto de
+potenciales fenómenos naturales (F2, F12, O2, O10, A4, F3)
+5. Mejoramiento o mantenimiento de la relación con los proveedores para
+asegurar la calidad de los insumos y de la mano de obra (F1, F8, F11, O8)
+
+Debilidades
+Desarrollo de nuevo mercado en China
+
+Estrategias DO
+1. Activación de capacidades comerciales en la
+oficina comercial en China (D1, O5, O10)
+2. Customización de productos (envase y empaque)
+de acuerdo con la cultura China (D1, O5, O10)
+3. Promoción de la marca Camposol de acuerdo con
+el mercado (EE.UU., Europa y China) (D2, O10)
+4. Implementación de alianzas para la
+internacionalización de la producción aprovechando
+el canal de distribución propio y la capacidad de
+gestión en destino (F5, F6, F7, F9, O2, O5, D3, D5,
+O3, 010)
+
+65
+
+Amenazas
+A1
+
+Inestabilidad política del país
+
+A2
+
+Ente regulador
+
+A3
+
+Obras públicas de infraestructura
+
+A5
+
+Cambio climático / Fenómeno natural
+
+A6
+
+Alto poder de negociación de
+compradores
+
+Estrategias FA
+
+1. Mejoramiento o mantenimiento de los vínculos públicos con instituciones
+estatales (A1, A2, F1, F8, F11)
+2. Promoción del desarrollo de cluster agroindustrial para negociar con el
+estado obras de infraestructura pública (A3, F8, F11)
+3. Mantenimiento de los vínculos con los minoristas, asegurando calidad y
+valor agregado en los productos (A5, F5, F6)
+
+Estrategias DA
+
+1. Desarrollo de la capacidad de multidiversidad y
+multiculturalidad de los colaboradores, para gestión
+intracultural y relación con minoristas (D4, O10, A6)
+
+Fuente: Elaboración propia, 2021, con base en David, 2017.
+
+66
+
+Anexo 4. Matriz interna externa (IE)
+Unidad de negocio
+
+Ingresos (S/)
+
+Ingresos (%)
+
+Utilidades (S/)
+
+Utilidades (%)
+
+Puntajes EFE
+
+Puntajes EFI
+
+Arándanos
+
+100.202
+
+37%
+
+65,831
+
+68%
+
+2.96
+
+2.90
+
+Aguacates
+
+53.413
+
+20%
+
+13,668
+
+14%
+
+2.96
+
+2.90
+
+Mariscos
+
+70.173
+
+26%
+
+8,412
+
+9%
+
+2.72
+
+2.56
+
+Otros
+
+47.454
+
+17%
+
+8,981
+
+9%
+
+2.96
+
+2.90
+
+271.242
+100%
+Total
+Fuente: Elaboración propia, 2021, con fuente de Camposol, 2016.
+
+96,892
+
+100%
+
+67
+
+Anexo 5. Matriz MCPE
+Alianza
+estratégica
+
+Implementar
+alianzas con
+Peso productores para
+internacionalizar
+la producción
+(D3, D5, 03,
+010)(F5, F6, F7,
+F9, O2, 05).
+
+Factores Clave
+
+PA
+
+Oportunidades
+Factores
+externos
+
+Amenazas
+
+CA
+
+Aventura
+conjunta
+
+Aventura
+conjunta
+
+Aventura
+conjunta
+
+Mantener las
+relaciones con los
+minoristas
+asegurando
+calidad y valor
+agregado en los
+productos (A5,
+F5, F6).
+
+Mejorar o
+mantener la
+relación con los
+proveedores para
+asegurar la
+calidad de los
+insumos y la
+mano de obra
+(F1, F8, F11, O8).
+
+Promover el
+desarrollo de
+clusters
+agroindustriales
+para negociar con
+el Estado obras
+de infraestructura
+pública
+(A3,F8,F11).
+
+PA
+
+CA
+
+PA
+
+CA
+
+PA
+
+Calidad total
+(TQM)
+
+CA
+
+Desarrollo de
+mercado
+
+Desarrollo de
+mercado
+
+Customizar
+Mejorar el
+Activar
+productos
+rendimiento y la capacidades
+(envase y
+calidad de las
+comerciales en la
+empaque) de
+tierras aplicando oficina comercial
+acuerdo con la
+tecnología (F2,
+en China (D1, 05,
+cultura China
+06).
+O10).
+(D1, 05, O10).
+
+PA
+
+CA
+
+PA
+
+CA
+
+PA
+
+CA
+
+Desarrollo de
+mercado
+
+Desarrollo de
+producto
+
+Gerencia de
+procesos
+(BPM)
+
+Gerencia de
+procesos
+(BPM)
+
+Penetración de
+mercado
+
+Rightsizing
+
+Ingresar al
+mercado de
+China
+aprovechando la
+oferta productiva
+y la experiencia
+en producción y
+distribución de
+alimentos (F3, F4,
+O2, O10).
+
+Desarrollar o
+adecuar nuevos
+productos en
+otras regiones del
+Perú (sierra y
+selva) aplicando
+I+D (F10, F12,
+O8, 07).
+
+Desarrollar la
+capacidad de
+multidiversidad y
+multiculturalidad
+de los
+colaboradores
+(D4, O10) (D4,
+A5).
+
+Mejorar o
+mantener las
+relaciones
+publicas con
+instituciones
+estatales (A1,
+A2, F1, F8, F11).
+
+Promocionar la
+marca Camposol
+de acuerdo con el
+mercado
+(EE.UU., Europa
+y China) (D2,
+O10, O2, O3).
+
+Comprar tierras
+en otros países
+para incrementar
+la capacidad de
+producción (F2,
+F12, O2, O10)(A4,
+F3).
+
+PA
+
+CA
+
+PA
+
+CA
+
+PA
+
+CA
+
+PA
+
+CA
+
+PA
+
+CA
+
+PA
+
+CA
+
+Tratado de Libre Comercio (TLC)
+
+6%
+
+3
+
+0.18
+
+1
+
+0.06
+
+1
+
+0.06
+
+2
+
+0.12
+
+1
+
+0.06
+
+4
+
+0.24
+
+4
+
+0.24
+
+4
+
+0.24
+
+1
+
+0.06
+
+1
+
+0.06
+
+1
+
+0.06
+
+2
+
+0.12
+
+2
+
+0.12
+
+PBI global
+
+2%
+
+4
+
+0.0796
+
+1
+
+0.0199
+
+1
+
+0.0199
+
+1
+
+0.0199
+
+2
+
+0.0398
+
+3
+
+0.0597
+
+3
+
+0.0597
+
+4
+
+0.0796
+
+3
+
+0.0597
+
+2
+
+0.0398
+
+2
+
+0.0398
+
+4
+
+0.0796
+
+4
+
+0.08
+
+Exportación de frutas
+
+10%
+
+4
+
+0.4
+
+3
+
+0.3
+
+3
+
+0.3
+
+3
+
+0.3
+
+4
+
+0.4
+
+4
+
+0.4
+
+4
+
+0.4
+
+4
+
+0.4
+
+3
+
+0.3
+
+4
+
+0.4
+
+3
+
+0.3
+
+4
+
+0.4
+
+4
+
+0.4
+
+Inflación en el Perú
+
+4%
+
+1
+
+0.0399
+
+1
+
+0.0399
+
+1
+
+0.0399
+
+1
+
+0.0399
+
+1
+
+0.0399
+
+1
+
+0.0399
+
+1
+
+0.0399
+
+1
+
+0.0399
+
+1
+
+0.0399
+
+1
+
+0.0399
+
+1
+
+0.0399
+
+0
+
+0
+
+1
+
+0.0399
+
+Consumo de productos frescos y saludables
+
+10%
+
+4
+
+0.4
+
+3
+
+0.3
+
+3
+
+0.3
+
+3
+
+0.3
+
+4
+
+0.4
+
+3
+
+0.3
+
+4
+
+0.4
+
+4
+
+0.4
+
+3
+
+0.3
+
+4
+
+0.4
+
+3
+
+0.3
+
+4
+
+0.4
+
+4
+
+0.4
+
+Uso de tecnología en la siembra
+
+6%
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+4
+
+0.22
+
+1
+
+0.055
+
+1
+
+0
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+Perú con potencial natural
+
+10%
+
+1
+
+0.1
+
+1
+
+0.1
+
+1
+
+0.1
+
+1
+
+0.1
+
+1
+
+0.1
+
+1
+
+0.1
+
+1
+
+0.1
+
+1
+
+0.1
+
+4
+
+0.4
+
+1
+
+0.1
+
+1
+
+0.1
+
+2
+
+0.2
+
+1
+
+0.1
+
+Ley de promoción agraria en el Perú
+
+6%
+
+1
+
+0.055
+
+1
+
+0.055
+
+4
+
+0.22
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+4
+
+0.22
+
+1
+
+0.055
+
+2
+
+0.11
+
+1
+
+0.055
+
+1
+
+0.055
+
+Internet de las cosas
+
+10%
+
+1
+
+0.1
+
+1
+
+0.1
+
+1
+
+0.1
+
+1
+
+0.1
+
+4
+
+0.4
+
+1
+
+0.1
+
+1
+
+0.1
+
+1
+
+0.1
+
+1
+
+0.1
+
+1
+
+0.1
+
+1
+
+0.1
+
+1
+
+0.1
+
+1
+
+0.1
+
+Altas barreras de entrada al sector
+
+6%
+
+4
+
+0.24
+
+1
+
+0.06
+
+1
+
+0.06
+
+1
+
+0.06
+
+3
+
+0.18
+
+4
+
+0.24
+
+1
+
+0.06
+
+4
+
+0.24
+
+2
+
+0.12
+
+4
+
+0.24
+
+1
+
+0.06
+
+1
+
+0.06
+
+4
+
+0.24
+
+Inestabilidad política del país
+
+6%
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+4
+
+0.22
+
+1
+
+0.055
+
+1
+
+0.055
+
+Ente regulador
+
+6%
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+2
+
+0.11
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+1
+
+0.055
+
+4
+
+0.22
+
+1
+
+0.055
+
+1
+
+0.055
+
+Obras públicas de infraestructura
+
+4%
+
+1
+
+0.0399
+
+1
+
+0.0399
+
+1
+
+0.0399
+
+4
+
+0.1596
+
+1
+
+0.0399
+
+1
+
+0.0399
+
+1
+
+0.0399
+
+1
+
+0.0399
+
+1
+
+0.0399
+
+1
+
+0.0399
+
+4
+
+0.1596
+
+1
+
+0
+
+1
+
+0.0399
+
+Cambio climático / Fenómeno natural
+
+10%
+
+1
+
+0.1
+
+1
+
+0.1
+
+1
+
+0.1
+
+1
+
+0.1
+
+3
+
+0.3
+
+1
+
+0.1
+
+1
+
+0.1
+
+1
+
+0.1
+
+2
+
+0.2
+
+1
+
+0.1
+
+1
+
+0.1
+
+1
+
+0.1
+
+4
+
+0.4
+
+Alto poder de negociación de compradores
+
+6%
+
+1
+
+0.06
+
+4
+
+0.24
+
+1
+
+0.06
+
+1
+
+0.06
+
+1
+
+0.06
+
+3
+
+0.18
+
+1
+
+0.06
+
+3
+
+0.18
+
+2
+
+0.12
+
+3
+
+0.18
+
+1
+
+0.06
+
+2
+
+0.12
+
+1
+
+0.06
+
+4%
+
+2
+
+0.08
+
+1
+
+0.04
+
+4
+
+0.16
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+3
+
+0.12
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+4
+
+0.16
+
+1
+
+0.04
+
+1
+
+0.04
+
+100%
+
+Fortalezas
+
+Gestión de las relaciones con los proveedores
+Ubicación geográfica privilegiada / Ventaja comparativa de tierras en el
+Perú
+Economías de escala para la producción
+
+6%
+
+1
+
+0.06
+
+1
+
+0.06
+
+1
+
+0.06
+
+1
+
+0.06
+
+4
+
+0.24
+
+1
+
+0.06
+
+1
+
+0.06
+
+1
+
+0.06
+
+3
+
+0.18
+
+1
+
+0.06
+
+1
+
+0.06
+
+2
+
+0.12
+
+4
+
+0.24
+
+10%
+
+1
+
+0.095
+
+1
+
+0.095
+
+1
+
+0.095
+
+1
+
+0.095
+
+4
+
+0.38
+
+3
+
+0.285
+
+3
+
+0.285
+
+4
+
+0.38
+
+2
+
+0.19
+
+1
+
+0.095
+
+1
+
+0.095
+
+2
+
+0.19
+
+4
+
+0.38
+
+Experiencia en el sector de alimentos frescos y saludables
+
+10%
+
+3
+
+0.3
+
+1
+
+0.1
+
+1
+
+0.1
+
+3
+
+0.3
+
+4
+
+0.4
+
+3
+
+0.3
+
+3
+
+0.3
+
+4
+
+0.4
+
+3
+
+0.3
+
+1
+
+0.1
+
+1
+
+0.1
+
+2
+
+0.2
+
+4
+
+0.4
+
+Control completo de la cadena de valor de sus productos
+
+4%
+
+4
+
+0.16
+
+4
+
+0.16
+
+2
+
+0.08
+
+2
+
+0.08
+
+1
+
+0.04
+
+4
+
+0.16
+
+4
+
+0.16
+
+4
+
+0.16
+
+2
+
+0.08
+
+3
+
+0.12
+
+3
+
+0.12
+
+2
+
+0.08
+
+2
+
+0.08
+
+Gestión de operaciones directas en destino con minoristas
+
+4%
+
+4
+
+0.16
+
+4
+
+0.16
+
+2
+
+0.08
+
+2
+
+0.08
+
+1
+
+0.04
+
+4
+
+0.16
+
+4
+
+0.16
+
+4
+
+0.16
+
+2
+
+0.08
+
+3
+
+0.12
+
+3
+
+0.12
+
+2
+
+0.08
+
+2
+
+0.08
+
+Gestión de canales de comunicación con los consumidores finales
+Factores
+internos
+
+2%
+
+4
+
+0.08
+
+3
+
+0.06
+
+1
+
+0.02
+
+1
+
+0.02
+
+1
+
+0.02
+
+3
+
+0.06
+
+3
+
+0.06
+
+3
+
+0.06
+
+1
+
+0.02
+
+2
+
+0.04
+
+1
+
+0.02
+
+4
+
+0.08
+
+1
+
+0.02
+
+Gestión de valor compartido
+
+6%
+
+3
+
+0.18
+
+3
+
+0.18
+
+4
+
+0.24
+
+4
+
+0.24
+
+2
+
+0.12
+
+3
+
+0.18
+
+3
+
+0.18
+
+3
+
+0.18
+
+1
+
+0.06
+
+4
+
+0.24
+
+4
+
+0.24
+
+4
+
+0.24
+
+1
+
+0.06
+
+Gestión de permisos, licencias y certificaciones
+Capacidad de investigación, innovación y desarrollo / Alta inversión en
+I+D
+Prácticas de gobierno corporativo
+
+2%
+
+4
+
+0.08
+
+1
+
+0.02
+
+1
+
+0.02
+
+1
+
+0.02
+
+1
+
+0.02
+
+1
+
+0.02
+
+1
+
+0.02
+
+1
+
+0.02
+
+1
+
+0.02
+
+1
+
+0.02
+
+1
+
+0.02
+
+4
+
+0.08
+
+1
+
+0.02
+
+6%
+
+1
+
+0.06
+
+1
+
+0.06
+
+1
+
+0.06
+
+1
+
+0.06
+
+4
+
+0.24
+
+1
+
+0.06
+
+3
+
+0.18
+
+1
+
+0.06
+
+4
+
+0.24
+
+1
+
+0.06
+
+1
+
+0.06
+
+1
+
+0.06
+
+1
+
+0.06
+
+4%
+
+3
+
+0.12
+
+3
+
+0.12
+
+4
+
+0.16
+
+4
+
+0.16
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+4
+
+0.16
+
+1
+
+0.04
+
+1
+
+0.04
+
+Producción de alimentos frescos de alto valor nutritivo
+
+10%
+
+4
+
+0.38
+
+3
+
+0.285
+
+3
+
+0.285
+
+3
+
+0.285
+
+4
+
+0.38
+
+3
+
+0.285
+
+4
+
+0.38
+
+4
+
+0.38
+
+4
+
+0.38
+
+4
+
+0.38
+
+3
+
+0.285
+
+4
+
+0.38
+
+4
+
+0.38
+
+Desarrollo de nuevo mercado en China
+
+6%
+
+1
+
+0.06
+
+3
+
+0.18
+
+1
+
+0.06
+
+1
+
+0.06
+
+2
+
+0.12
+
+4
+
+0.24
+
+4
+
+0.24
+
+4
+
+0.24
+
+2
+
+0.12
+
+4
+
+0.24
+
+2
+
+0.12
+
+4
+
+0.24
+
+3
+
+0.18
+
+Baja inversión en promocionar la marca Camposol
+
+10%
+
+1
+
+0.095
+
+1
+
+0.095
+
+1
+
+0.095
+
+1
+
+0.095
+
+1
+
+0.095
+
+4
+
+0.38
+
+4
+
+0.38
+
+4
+
+0.38
+
+2
+
+0.19
+
+4
+
+0.38
+
+2
+
+0.19
+
+4
+
+0.38
+
+3
+
+0.29
+
+Gestión de alianzas para tercerizar la producción
+
+4%
+
+4
+
+0.16
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+2
+
+0.08
+
+Integración de la cultura de producción con la cultura comercial
+
+4%
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+1
+
+0.04
+
+4
+
+0.16
+
+1
+
+0.04
+
+4
+
+0.16
+
+1
+
+0.04
+
+Ofrecimiento de productos de manera consistente durante todo el año
+
+10%
+
+4
+
+0.38
+
+4
+
+0.38
+
+2
+
+0.19
+
+1
+
+0.095
+
+3
+
+0.285
+
+4
+
+0.38
+
+1
+
+0.095
+
+4
+
+0.38
+
+2
+
+0.19
+
+4
+
+0.38
+
+1
+
+0.095
+
+4
+
+0.38
+
+4
+
+0.38
+
+Debilidades
+
+100%
+CTA
+
+4.4494
+
+3.6547
+
+3.3497
+
+3.3494
+
+4.9446
+
+4.8045
+
+4.5045
+
+5.1594
+
+4.3345
+
+4.4346
+
+3.8493
+
+4.5896
+
+4.9644
+
+Fuente: Elaboración propia, 2021.
+
+68
+
+Anexo 6. Alineamiento de estrategias con los objetivos
+Rentabilidad
+
+6
+
+7
+
+E
+
+E
+
+E
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+x
+
+O6. Mejorar la
+reputación corporativa
+
+5
+
+I
+
+x
+
+Sostenibilidad
+
+O5. Contribuir a
+diversificar la
+capacidad de
+producción sostenible
+
+4
+
+I
+
+O4. Incrementar
+participación de
+mercado a nivel global
+
+3
+
+E
+
+Customizar
+productos
+(envase y
+empaque) de
+acuerdo con la
+cultura China
+(D1, 05, O10)
+Ingresar al
+mercado de
+China,
+aprovechando la
+oferta productiva
+y la experiencia
+en producción y
+distribución de
+alimentos (F3,
+F4, O2, O10)
+Mejorar el
+rendimiento y la
+calidad de las
+tierras aplicando
+tecnología (F2,
+06)
+Comprar tierras
+en otros países
+para incrementar
+la capacidad de
+producción (F2,
+F12, O2, O10)
+(A4, F3)
+Promocionar
+marca Camposol
+de acuerdo con el
+mercado
+(EE.UU.,
+Europa, China)
+(D2, O10, O2,
+O3)
+Activar
+capacidades
+comerciales en
+oficina comercial
+en China (D1,
+05, O10)
+Desarrollar o
+adecuar nuevos
+productos en
+otras regiones del
+Perú (sierra,
+selva) aplicando
+I+D (F10, F12,
+O8, 07)
+
+O3. Incrementar los
+ingresos
+
+2
+
+E
+
+Estrategia /
+Objetivo
+
+O2. Incrementar el
+ROE
+
+1
+
+Tipo
+
+O1. Incrementar el
+EBITDA
+
+N.°
+
+Crecimiento
+
+x
+
+x
+
+x
+
+x
+
+x
+
+69
+
+Rentabilidad
+
+Sostenibilidad
+
+O6. Mejorar la
+reputación corporativa
+
+O5. Contribuir a
+diversificar la
+capacidad de
+producción sostenible
+
+O4. Incrementar
+participación de
+mercado a nivel global
+
+Desarrollar
+capacidad de
+multidiversidad y
+multiculturalidad en los
+colaboradores
+(D4, O10) (D4,
+8
+I
+A5)
+Implementar
+alianzas con
+productores para
+internacionalizar
+la producción
+(D3, D5, 03,
+010) (F5, F6,F7,
+9
+E
+F9, O2, 05)
+Mejorar o
+mantener los
+vínculos públicos
+con instituciones
+estatales (A1,
+10
+I
+A2, F1, F8, F11)
+Fuente: Elaboración propia, 2021
+
+O3. Incrementar los
+ingresos
+
+Estrategia /
+Objetivo
+
+O2. Incrementar el
+ROE
+
+Tipo
+
+O1. Incrementar el
+EBITDA
+
+N.°
+
+Crecimiento
+
+x
+
+x
+
+x
+
+x
+
+70
+
+Anexo 7. Identificación de mercados meta
+
+Base /Variable
+
+Enfoques de
+compra
+
+Mercado meta 2
+
+Mercado meta 3
+
+Ubicación
+geográfica
+
+Estados Unidos
+
+Europa
+
+China
+
+Industria
+
+Comercio de frutas y
+verduras frescas a través
+de cadena de
+supermercados,
+hipermercados y grandes
+almacenes
+
+Comercio de frutas y
+verduras frescas a través
+de cadena de
+supermercados,
+hipermercados y grandes
+almacenes
+
+Usuario o no
+usuario
+
+Reposición diaria de
+frutas y verduras frescas
+
+Reposición diaria de
+frutas y verduras frescas
+
+Comercio de frutas y
+verduras frescas a
+través de cadena de
+supermercados,
+hipermercados y
+grandes almacenes
+Reposición esporádica
+por ser un segmento
+en desarrollo
+
+Demográficas
+
+Variables
+operativas
+
+Mercado meta 1
+
+Compra centralizada por
+estados; ingreso por
+Organización de
+puertos de Filadelfia y
+las funciones de
+Miami en la costa este y
+compra
+Los Ángeles y Long
+Beach en la costa oeste
+
+Compra centralizada por
+país; ingreso por puertos
+de Rotterdam, Hamburgo
+y San Petersburgo
+
+Minoristas muy
+fragmentados; ingreso
+por puertos de
+Shanghái y Hong
+Kong
+
+Naturaleza de
+las relaciones
+existentes
+
+Relación comercial
+madura
+
+Relación comercial
+madura
+
+Relación comercial en
+desarrollo; requiere
+más trabajo
+
+Políticas
+generales de
+compra
+
+Compra de productos
+con marca del productor
+
+Compra de productos con
+marca de minorista
+
+Compra de productos
+con marca del
+productor
+
+Criterios de
+compra
+
+Buscan calidad y
+servicio y valoran el
+sabor.
+
+Buscan calidad y servicio
+y valoran el sabor
+
+Buscan calidad y
+servicio y valoran el
+tamaño y el buen color
+
+Fuente: Elaboración propia, 2021, con base en Kotler y Keller, 2016.
+
+71
+
+Anexo 8. Mantra de la marca Camposol
+
+Fuente: Elaboración propia, 2021, con base en Kotler y Keller, 2016.
+
+72
+
+Anexo 9. Atributos de los principales productos de Camposol
+Atributos
+
+Núcleo
+Calidad y
+precio
+
+Envase y
+embalaje
+
+Diseño
+Servicio
+Imagen del
+producto
+Imagen de la
+empresa
+
+Arándano
+Alimento fresco, saludable y nutritivo,
+rico en antioxidantes, fibra, minerales y
+vitamina C.
+
+Aguacates
+Alimento fresco, saludable y nutritivo: rico en
+vitaminas C, E y potasio, y contiene aceite
+monoinsaturado.
+
+Producidos de manera responsable con la sociedad y el medioambiente.
+USD 9.16 kg
+USD 2.33 kg
+Cliente (minorista)
+Cliente (minorista)
+Pallets con cajas de cartón
+Pallets con cajas de cartón
+Cajas de cartón con envases clamshell
+Cajas con alveolos amortiguantes o en mallas
+Consumidor
+Consumidor
+Contenedor clamshell (125 g, 172 g, 510 Por unidad con sello de origen
+g y 680 g)
+Enmallados
+Cada caja contiene información del peso, el calibre, el país de origen y de trazabilidad
+Productos con calidad constante y gestión comercial directa
+Alimentos frescos y saludables que contribuyen a la nutrición y la salud de familias del mundo
+Empresa comprometida con la gestión de un negocio con altos estándares de sostenibilidad,
+calidad e innovación
+
+Fuente: Elaboración propia, 2021, con base en Camposol, 2016
+
+73
+
+Canales
+
+Vendedor
+
+Ventas directas
+x
+x
+x
+x
+
+Distribuidores
+x
+x
+x
+Fuente: Elaboración propia, 2021, con base en Kotler y Keller, 2017.
+x
+
+Supervisar la transferencia de la
+propiedad
+
+x
+
+Facilitar el pago
+
+Facilitar el almacenamiento y el
+transporte de productos
+
+Asumir riesgos
+
+Adquirir fondos para los inventarios
+
+Realizar pedidos
+
+x
+
+Llegar a acuerdos de precios
+
+Desarrollar y difundir las comunicaciones
+
+Recopilar información relevante
+
+Anexo 10. Matriz hibrida
+Tareas de generación de demanda
+
+x
+x
+
+Cliente
+
+x
+
+74
+
+Anexo 11. Iniciativas e indicadores del plan estratégico
+Planes
+Finanzas
+Finanzas
+
+Objetivo estratégico
+O1. Contribuir a incrementar la rentabilidad
+O2. Contribuir a incrementar el rendimiento del accionista
+
+Métricas
+EBITDA
+ROE
+
+2017
+18%
+20%
+
+2018
+18%
+20%
+
+Indicadores
+2019
+19%
+22%
+
+2020
+20%
+25%
+
+2021
+20%
+25%
+
+Marketing
+
+O3. Incrementar los ingresos en mercados actuales
+
+% de contribución en los ingresos
+
+1%
+
+1%
+
+2%
+
+4%
+
+4%
+
+Marketing
+
+O4. Incrementar participación de mercado a nivel global
+
+% de contribución en los ingresos
+
+7%
+
+7%
+
+10%
+
+25%
+
+25%
+
+% contribución al rendimiento promedio de arándanos
+
+0.005
+
+0.005
+
+0.0075
+
+0.01
+
+0.01
+
+% contribución al rendimiento promedio de aguacates
+
+0.005
+
+0.005
+
+0.0075
+
+0.01
+
+0.01
+
+2%
+
+2%
+
+2%
+
+2%
+
+27000
+
+27000
+
+27000
+
+27000
+
+Operaciones
+
+O3. Incrementar los ingresos en mercados actuales
+
+Operaciones
+
+O3. Incrementar los ingresos en mercados actuales
+
+% TM desechados ( merma)
+
+Operaciones
+
+O5. Contribuir a diversificar la capacidad de producción
+sostenible
+
+Número de hectáreas disponibles (2016 = 26 mil)
+
+Operaciones
+
+O6. Incrementar la inversión en I+D
+
+Número de pruebas de concepto en proyectos I+D
+
+10
+
+20
+
+43
+
+81%
+
+83%
+
+85%
+
+87%
+
+5%
+
+5%
+
+5%
+
+5%
+
+Tasa media de rotación en China
+
+19%
+
+19%
+
+19%
+
+19%
+
+Número de horas de capacitación
+
+27
+
+28
+
+53
+
+116
+
+120
+
+95%
+2
+
+95%
+2
+
+95%
+2
+
+95%
+2
+
+95%
+2
+
+Número de reclamos de los clientes por año
+
+120
+
+100
+
+90
+
+60
+
+30
+
+Número de accidentes por año
+
+706
+
+656
+
+606
+
+556
+
+506
+
+O3. Incrementar los ingresos en mercados actuales
+Índice de rotación de personal
+
+Recursos humanos
+
+O4. Incrementar la participación en nuevos mercados
+
+Recursos humanos
+
+O5. Contribuir a diversificar la capacidad de producción
+sostenible
+
+Responsabilidad social
+
+O7. Mejorar la reputación en RSC
+
+Porcentaje de acuerdos cumplidos con el sindicato
+Número de programas internos en gestión de cultura y diversidad
+
+Monto invertido en programas sociales
+Reducción de consumo de agua en las plantas de Chao
+Número de proyectos de conservación de biodiversidad por año
+
+19,445
+60000 m3
+1
+
+20,206
+
+38,234
+
+84,214
+
+60000 m3
+
+60000 m3
+
+60000 m3
+
+1
+
+2
+
+3
+
+Contratación de publicidad para transmitir durante la transmisión del Super Bowl 2017, 2018 y 2019 en los Estados Unidos.
+Incremento del precio por encima del promedio en los Estados Unidos y Europa cuando se esté en campaña y la oferta de la
+competencia sea mínima.
+En meses en los que hay sobreoferta de arándanos, aceptar el precio fijado por el minorista, y en meses en los que se esté
+en campaña y la oferta de la competencia sea mínima, fijar un precio alto.
+En meses en los que hay sobreoferta de aguacates, aceptar el precio fijado por el minorista, y en meses en los que se esté en
+campaña y la oferta de la competencia sea mínima, fijar un precio alto.
+Realización de campañas de publicidad en redes sociales para posicionar el mantra de la marca Camposol en jóvenes.
+Promoción con muestras o degustaciones de los arándanos en el supermercado y como obsequio una bolsa de tela con el
+logo de la marca.
+Publicidad en diarios y revistas de comida, cuyo objetivo será provocar el gusto y la convicción de compra de los
+consumidores finales de los aguacates y los arándanos.
+Publicidad en el punto de venta; se utilizará la herramienta de bonificación para que puedan acceder a mayores descuentos
+en sus futuras compras.
+Asistencia a ferias comerciales y convenciones, para poder captar y fortalecer relaciones con minoristas.
+Marketing directo con minoristas, recompensas por volúmenes de compra anuales con preferencia de colocación de
+productos en ventanas de escasa oferta en el mercado.
+Customización de la presentación y envases de aguacates y arándanos de acuerdo con las preferencias de los consumidores
+en China.
+Implementación de pruebas de marketing controlado en los supermercados de Shanghái, con promoción mediante muestras
+o degustaciones en supermercados del centro de Shangái.
+Implementación de control biológico de plagas con insectos benéficos naturales y nematodos.
+Digitalización de los procesos de siembra y cosecha para optimizar la asignación de los recursos por faenas en época de
+campaña.
+Gestión del suelo y del agua en los cultivos de acuerdo con las condiciones ambientales y genéticas de los arándanos y los
+aguacates.
+
+1% Implementación de control biológico de plagas con insectos benéficos naturales y nematodos.
+Mejora del sistema de trazabilidad, incluyendo un sistema de consulta en línea para los consumidores finales.
+Adquisición de tierras priorizando la ubicación geográfica (Colombia y Uruguay) para cultivo de aguacates y arándanos.
+27000
+Realización de convenios de externalización de la siembra bajo el modelo compartido con productores peruanos.
+Implementación de un sistema que soporte los procesos de innovación desde la ideación, el diseño, el prototipo y la
+45
+ejecución de las pruebas de concepto.
+Implementación de un sistema de evaluación de desempeño que considere estas variables: cultura Camposol, cuidado del
+89%
+medio ambiente, calidad y responsabilidad social y medioambiental.
+Ofrecimiento de desarrollo profesional, líneas de carrera y formación de habilidades directivas.
+5%
+Bonificación por el cumplimiento de objetivos.
+Realización de un estudio de análisis de puestos de trabajo para cubrir las vacantes en el mercado chino.
+19%
+Ofrecimiento de desarrollo profesional, líneas de carrera y formación de habilidades directivas.
+
+10
+
+Porcentaje de satisfacción sobre el ambiente de trabajo
+Recursos humanos
+
+Iniciativas
+
+87,333
+
+Implementación de un sistema de reconocimiento a los trabajadores para que mejoren o mantengan su rendimiento durante
+las campañas de cosecha.
+Reconocimiento de la negociación colectiva como el mecanismo para establecer las condiciones para el lugar de trabajo.
+Implementación de programas de formación interna en diversidad y cultura.
+Implementación de un plan de gestión de reclamos.
+Seguimiento y monitoreo de los reclamos de los minoristas.
+Seguimiento y monitoreo del plan anual de seguridad y salud en el trabajo.
+Mejoramiento de la comunicación interna y externa de Camposol.
+Implementación del sistema de consulta web en línea sobre los procesos de contrataciones locales.
+
+Desarrollo de alianzas público-privadas para la implementación de programas sociales para desarrollar las capacidades
+económicas de las comunidades.
+60000 m3 Implementación de un sistema de riego inteligente con internet de las cosas y sensores medioambientales.
+Implementación de proyectos de conservación de biodiversidad, en armonía con las operaciones de agroindustria.
+3
+Implementción de control de plagas biológicas naturales con insectos y nematodos.
+
+Fuente: Elaboración propia, con base en Kaplan y Norton, 1997.
+
+75
+
+Notas biográficas
+Juan de Dios Huarancca Cahuana
+Nació en Lima el 14 de octubre de 1978. Es ingeniero de sistemas por la Universidad Nacional
+Federico Villarreal, certificado como Project Management Professional y Agile Certified
+Practitioner por el Project Management Institute, con veinte años de experiencia en gestión de
+proyectos de tecnologías de la información en empresas privadas y públicas. Actualmente se
+desempeña como Big Data Project Manager en Qualifacts, empresa tecnológica estadounidense
+especializada en historias clínicas electrónicas para entidades del sector de salud mental,
+gestionando proyectos de Data Science.
+Ana Gabriela Pichilingue Chafalote
+Nació en Lima el 12 de marzo de 1988. Es contadora pública colegiada por la Universidad
+Tecnológica del Perú, con especialización en tributación por la Universidad ESAN, comercio
+exterior por la Cámara de Comercio de Lima y NIIF por la Universidad del Pacífico. Cuenta con
+trece años de experiencia en el sector privado en los sectores de retail, construcción, inmobiliaria,
+energía, consumo masivo y telecomunicaciones. Actualmente trabaja de forma independiente
+como consultora contable para la empresa Ingram Micro S.A.C.
+
+Ximena Fiorella Velarde Broders
+Ingeniera industrial por la Universidad Católica de Santa María, con especialización en
+operaciones y logística otorgada por la Universidad ESAN. Tienes más de diez años de
+experiencia en el área de supply chain para las industrias de petróleo y gas, minería y construcción.
+Hace más de ocho años labora en la compañía Pluspetrol Perú Corporation y actualmente tiene el
+cargo de administradora de contratos senior.
+
+76
+
+
